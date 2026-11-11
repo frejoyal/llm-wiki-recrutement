@@ -1,0 +1,6 @@
+# Calculer avec le modèle local (--mode direct) et tracer les graphiques.
+# Il faut aussi Ollama, avec le modèle gemma4:e4b.
+-r requirements.txt
+requests==2.32.5
+matplotlib==3.10.5
+networkx==3.5

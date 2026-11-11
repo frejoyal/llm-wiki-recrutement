@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "wiki-recrutement": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "C:/chemin/vers/llm-wiki-recrutement/wiki"
+      ]
+    }
+  }
+}

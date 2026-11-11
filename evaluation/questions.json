@@ -1,0 +1,35 @@
+[
+ {"id": "f01", "type": "fait", "question": "Quel est le seuil de points pour présenter un candidat à un client ?", "attendu": [["70"]]},
+ {"id": "f02", "type": "fait", "question": "Combien de références faut-il vérifier au minimum pour un poste qui n'est pas un poste de gestion ?", "attendu": [["deux", "2"]]},
+ {"id": "f03", "type": "fait", "question": "Quels sont les honoraires standard du cabinet ?", "attendu": [["20"]]},
+ {"id": "f04", "type": "fait", "question": "Combien de temps dure l'entrevue technique ?", "attendu": [["60 minutes", "60 min", "une heure", "1 heure"]]},
+ {"id": "f05", "type": "fait", "question": "Dans quel délai le cabinet répond-il quand un candidat demande à consulter son dossier ?", "attendu": [["30 jours", "trente jours"]]},
+ {"id": "f06", "type": "fait", "question": "Quelle certification recherche-t-on pour un poste en sécurité offensive ?", "attendu": [["oscp"]]},
+ {"id": "f07", "type": "fait", "question": "Qui est responsable de la protection des renseignements personnels au cabinet ?", "attendu": [["pelletier"]]},
+ {"id": "f08", "type": "fait", "question": "Où se déroule l'entrevue finale chez Manufacturier Boréal ?", "attendu": [["sur place", "usine"]]},
+ {"id": "f09", "type": "fait", "question": "Où les données d'Assurances Riveraine doivent-elles être hébergées ?", "attendu": [["canada"]]},
+ {"id": "f10", "type": "fait", "question": "Sous quelle note en compétence technique un candidat est-il éliminé, peu importe son total ?", "attendu": [["30"]]},
+ {"id": "f11", "type": "fait", "question": "Quand le recruteur appelle-t-il la personne embauchée pour faire un suivi ?", "attendu": [["30 jours", "trente jours"]]},
+ {"id": "f12", "type": "fait", "question": "Combien de temps dure l'exercice pratique remis aux candidats en sécurité offensive ?", "attendu": [["2 heures", "deux heures"]]},
+ {"id": "f13", "type": "fait", "question": "Combien de références faut-il pour un poste de gestion ?", "attendu": [["trois", "3", "troisieme"]]},
+
+ {"id": "m01", "type": "mise à jour", "question": "Combien de temps conserve-t-on le dossier d'un candidat non retenu ?", "attendu": [["12 mois", "douze mois"]]},
+ {"id": "m02", "type": "mise à jour", "question": "Quelle est la garantie de remplacement d'Assurances Riveraine ?", "attendu": [["120"]]},
+ {"id": "m03", "type": "mise à jour", "question": "Combien de jours de télétravail par semaine Santé-Nord accepte-t-il ?", "attendu": [["2 jours", "deux jours"]]},
+ {"id": "m04", "type": "mise à jour", "question": "Quelle langue, en plus du français, Santé-Nord exige-t-il des candidats ?", "attendu": [["anglais"]]},
+ {"id": "m05", "type": "mise à jour", "question": "Peut-on enregistrer une entrevue technique ?", "attendu": [["consentement"]]},
+
+ {"id": "s01", "type": "synthèse", "question": "Quels clients exigent une vérification des antécédents judiciaires ?", "attendu": [["riveraine"], ["sante-nord", "sante nord"]]},
+ {"id": "s02", "type": "synthèse", "question": "Avant de présenter une ingénieure de données à Assurances Riveraine, combien de références faut-il vérifier et dans quel délai le client attend-il les dossiers ?", "attendu": [["deux", "2"], ["10 jours", "dix jours"]]},
+ {"id": "s03", "type": "synthèse", "question": "Un recruteur peut-il utiliser une IA pour écarter les candidats qui sont sous le seuil de la grille ?", "attendu": [["jamais", "ne peut pas", "ne peut", "interdit", "pas autorise", "n'est pas permis"]]},
+ {"id": "s04", "type": "synthèse", "question": "Quelles certifications Microsoft Azure sont mentionnées pour les postes en infonuagique ?", "attendu": [["az-104"], ["az-305"]]},
+ {"id": "s05", "type": "synthèse", "question": "Pour un candidat en cybersécurité gouvernance chez Santé-Nord, quel document doit-il signer et quelle certification de gouvernance est pertinente ?", "attendu": [["confidentialite"], ["cissp", "cism"]]},
+ {"id": "s06", "type": "synthèse", "question": "Quelle garantie de remplacement s'applique à Manufacturier Boréal ?", "attendu": [["90"]]},
+
+ {"id": "p01", "type": "piège", "question": "Quel logiciel de suivi des candidats le cabinet utilise-t-il ?", "attendu": []},
+ {"id": "p02", "type": "piège", "question": "Quelle commission est versée aux recruteurs sur un placement ?", "attendu": []},
+ {"id": "p03", "type": "piège", "question": "Quel salaire est offert pour le poste DevOps chez Manufacturier Boréal ?", "attendu": []},
+ {"id": "p04", "type": "piège", "question": "Combien d'employés compte Recrutement Élite ?", "attendu": []},
+ {"id": "p05", "type": "piège", "question": "Quelle est la politique de télétravail des recruteurs du cabinet ?", "attendu": []},
+ {"id": "p06", "type": "piège", "question": "Quelle certification Google Cloud est demandée pour les postes en infonuagique ?", "attendu": []}
+]

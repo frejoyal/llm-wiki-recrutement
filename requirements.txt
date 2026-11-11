@@ -1,0 +1,3 @@
+# Reconstruire le wiki et recalculer les résultats à partir du cache (ce que fait la CI)
+rank-bm25==0.2.2
+numpy==2.4.6

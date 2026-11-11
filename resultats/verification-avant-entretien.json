@@ -1,0 +1,20 @@
+{
+ "pages": 16,
+ "liens": 17,
+ "liens_brises": [],
+ "pages_orphelines": [
+  "Assurances Riveraine",
+  "Conservation des dossiers",
+  "Enregistrement des entrevues",
+  "Manufacturier Boréal",
+  "Minimisation des données",
+  "Réseau Cliniques Santé-Nord",
+  "Utilisation de l'IA",
+  "Veille DevOps"
+ ],
+ "pages_sans_source": [],
+ "sources_inconnues": [],
+ "sources_jamais_citees": [],
+ "pages_absentes_de_l_index": [],
+ "doublons_probables": []
+}

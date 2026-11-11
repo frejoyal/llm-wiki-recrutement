@@ -1,0 +1,23 @@
+name: Vérification
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  wiki:
+    name: Wiki et résultats recalculés à partir du cache
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Installer les dépendances
+        run: pip install -r requirements.txt
+      - name: Reconstruire le wiki à partir des sources et le comparer au wiki publié
+        run: python -m wiki_llm.ingerer --verifier
+      - name: Vérifier le wiki (liens, orphelins, provenance) et comparer au rapport publié
+        run: python -m wiki_llm.verifier --verifier
+      - name: Répondre aux 30 questions avec les 5 méthodes et comparer aux résultats publiés
+        run: python -m wiki_llm.evaluer --verifier

@@ -1,0 +1,2561 @@
+{
+"009af29a3fe7ccd9ff2461bd86bcf29a7a45fec4": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_document",
+"arguments": {
+"nom": "2026-01-12-grille-evaluation.md"
+}
+}
+}
+]
+},
+"01141fe7bfe6ec8eb946feb00a864987f57d2aa3": {
+"content": "Oui, l'entrevue peut être enregistrée, mais cela nécessite le consentement écrit du candidat, lequel doit être recueilli avant l'entrevue [[2026-03-16-compte-rendu-reunion.md]]. L'enregistrement est ensuite détruit à la fin du mandat [[2026-03-16-compte-rendu-reunion.md]].",
+"tool_calls": []
+},
+"011608621ffac58d73a27f2fcc1ffef1dee88ca7": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_page",
+"arguments": {
+"titre": "Politique de recrutement"
+}
+}
+}
+]
+},
+"01b8622fb2ca6e733eefb75b419813c3c10a705c": {
+"content": "Le dossier d'un candidat non retenu est conservé **6 mois** après la fin du mandat, selon le guide interne sur la Loi 25 [[2026-01-19-guide-loi25.md]]. Cependant, une note de la direction du 20 avril 2026 indique que, si le candidat accepte, la durée de conservation est passée à **12 mois** après la fin du mandat [[2026-04-20-note-direction-conservation.md]].",
+"tool_calls": []
+},
+"02ba1098464ab6ed4613a33c3c1eaa8592d8af7a": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher",
+"arguments": {
+"mots": "responsable protection renseignements personnels"
+}
+}
+}
+]
+},
+"03749250e9deaf2e1382ddd98945739df1f6a04d": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_page",
+"arguments": {
+"titre": "Vérification des références"
+}
+}
+}
+]
+},
+"038ebbe7b4c91e45e631486c27e5f074f907a50d": {
+"content": "Le seuil de points pour présenter un candidat à un client est de **70 points** sur 100, selon la [[Grille d'évaluation des candidats]]. De plus, il y a une note éliminatoire : un candidat ne peut pas être présenté si sa note en compétence technique est inférieure à 30 points sur 50, même si son total est supérieur au seuil [[Grille d'évaluation des candidats]].",
+"tool_calls": []
+},
+"04307d383a17caa544eded40b2f2a5502c12a937": {
+"content": "INCONNU",
+"tool_calls": []
+},
+"04a2265afad18bed20c0a262869de561ed90fa9b": {
+"content": "Pour un poste de gestion, trois références sont demandées : il faut une personne que le candidat a supervisée, en plus des deux références minimales [[2026-01-26-procedure-references.md]].",
+"tool_calls": []
+},
+"0536227180d0163f9cf1fc6ac6f970172ecfb10f": {
+"content": "Je ne trouve aucune information concernant le moment où un recruteur appelle une personne embauchée pour un suivi [[INCONNU]].",
+"tool_calls": []
+},
+"05c4345928c667b0f3d4140793b70db1da455b35": {
+"content": "Les données d'Assurances Riveraine doivent être hébergées **au Canada** [[2026-02-23-fiche-client-assurances-riveraine.md]]. Les candidats en infonuagique doivent connaître les régions canadiennes d'Azure pour répondre à cette exigence [[2026-02-23-fiche-client-assurances-riveraine.md]].",
+"tool_calls": []
+},
+"0768279e708822f3af2a3af63e220b2d52f9dbdc": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_document",
+"arguments": {
+"nom": "2026-03-02-fiche-client-manufacturier-boreal.md"
+}
+}
+}
+]
+},
+"078581e34216e96b15c0fb7dd7ade6707b5cdad3": {
+"content": "Le recruteur appelle le candidat après 30 jours en poste pour faire un suivi, selon la politique de recrutement [[2026-01-12-politique-recrutement.md]].",
+"tool_calls": []
+},
+"078a26e9d8908bc48a73b3498fae2f8b6e3f780d": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_document",
+"arguments": {
+"nom": "2026-01-12-politique-recrutement.md"
+}
+}
+}
+]
+},
+"0885b1248966577682e79ea37c3ab745065faf70": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_page",
+"arguments": {
+"titre": "index"
+}
+}
+}
+]
+},
+"08a8906cb840ace8e74fa9def24de0de353b477b": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher",
+"arguments": {
+"mots": "honoraires"
+}
+}
+}
+]
+},
+"090701bebb501fd36c09b8ddd5a81745af8f8418": {
+"content": "Résumé : L'utilisation d'un outil d'IA est limitée à la synthèse de CV et à la proposition de questions d'entrevue, sans pouvoir prendre de décision finale sur un candidat.\n\nUn outil d'IA peut :\n* Résumer un CV.\n* Proposer des questions d'entrevue.\n\nUn outil d'IA ne peut pas :\n* Écarter un candidat.\n* Attribuer une note à un candidat.\n\nToute décision concernant un candidat doit être prise par un recruteur.\n\nConcernant l'utilisation de l'IA avec des données hors Québec :\n* Aucun CV ne doit être envoyé à un outil d'IA hébergé hors du Canada sans l'accord de Marc-André Pelletier.\n\n[[Consentement]]\n[[Délais de réponse]]",
+"tool_calls": []
+},
+"093217a7a0bf9b44124818b5832772bd2d5034be": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher",
+"arguments": {
+"mots": "politique de télétravail recruteurs"
+}
+}
+}
+]
+},
+"096598bdf601851c82588cf7bc034943799e55d0": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher",
+"arguments": {
+"mots": "nombre d'employés"
+}
+}
+}
+]
+},
+"09b041704987838cf6bfaefecf91349537c81fdc": {
+"content": "Un candidat est éliminé s'il obtient moins de 30 points sur 50 en compétence technique, quel que soit son total [[Grille d'évaluation des candidats]].",
+"tool_calls": []
+},
+"09e15bd317ed7afd5182540384cb89358a5c2d27": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_document",
+"arguments": {
+"nom": "2026-02-23-fiche-client-assurances-riveraine.md"
+}
+}
+}
+]
+},
+"0b0c23355c901828e9f10ed2a7e4b97844165c97": {
+"content": "Pour un poste en sécurité offensive, la mise en situation de l'entrevue technique est remplacée par un exercice pratique de deux heures, qui est fait à la maison [[2026-02-16-veille-cybersecurite.md]]. Le candidat reçoit cet exercice 48 heures avant son entrevue [[2026-02-16-veille-cybersecurite.md]].",
+"tool_calls": []
+},
+"0d6ae94645f669d6fca08222ee681c20eae520ba": {
+"content": "Le cabinet doit répondre dans un délai de **30 jours** lorsqu'un candidat demande à consulter son dossier [[Droits des candidats]].",
+"tool_calls": []
+},
+"0ddf275112e0a98ff402df512a44ae502aeed643": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher",
+"arguments": {
+"mots": "logiciel de suivi des candidats"
+}
+}
+}
+]
+},
+"0e925ffa384eee75875b7c440a927b0a4a1cad64": {
+"content": "Pour un poste de gestion, une troisième référence est demandée, et cette personne doit être quelqu'un que le candidat a supervisée [[2026-01-26-procedure-references.md]].",
+"tool_calls": []
+},
+"0f48fb860c99330763f254320b8e09a699e6194a": {
+"content": "Le seuil de présentation pour un candidat est de **70 points** [[2026-01-12-grille-evaluation.md]]. De plus, il y a une note éliminatoire : un candidat doit obtenir au moins 30 points sur 50 en compétence technique, quel que soit son score total [[2026-01-12-grille-evaluation.md]].",
+"tool_calls": []
+},
+"0f785fc342a5a73e189ddfdfb622fabe2690d261": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_page",
+"arguments": {
+"titre": "Vérification des références"
+}
+}
+}
+]
+},
+"0fa168578de6359cb2bb5b1db802ac17020bb2fd": {
+"content": "Je ne peux pas répondre à cette question car aucune page du wiki ne mentionne le nombre d'employés de Recrutement Élite inc. [[INCONNU]]",
+"tool_calls": []
+},
+"0fdd843a663b03d1a21f5aad2d9c33d1db72c08b": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_page",
+"arguments": {
+"titre": "index"
+}
+}
+}
+]
+},
+"115db7e058c763582a8bded3d3ca1ccb15cafb25": {
+"content": "Je ne trouve aucune information sur les clients qui exigent une vérification des antécédents judiciaires dans les pages disponibles [[index]].",
+"tool_calls": []
+},
+"1207a57a5fcce60a119d2852a8c82f40b7e8d843": {
+"content": "Je ne peux pas répondre à cette question car les documents disponibles ne contiennent pas d'informations spécifiques concernant le nombre de références à vérifier ou le délai d'attente des dossiers pour une présentation à Assurances Riveraine [[INCONNU]].",
+"tool_calls": []
+},
+"12dc8e5cdc07354ffcba8967e64aa147c8ce9830": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_page",
+"arguments": {
+"titre": "Vérification des références"
+}
+}
+}
+]
+},
+"14cd35c98e6913c9c785187958fc71e202cdd102": {
+"content": "Un candidat est éliminé s'il obtient moins de 30 points sur 50 en compétence technique, quel que soit son total [[Grille d'évaluation des candidats]].",
+"tool_calls": []
+},
+"1515be8211d008cce29a37c25cf64b922cf6ab44": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_document",
+"arguments": {
+"nom": "2026-02-16-veille-cybersecurite.md"
+}
+}
+}
+]
+},
+"187164d6087bcd4dbea216fd51f22a34811ef962": {
+"content": "La politique de télétravail des recruteurs n'est pas détaillée dans les documents consultés. Cependant, la [[Politique de recrutement]] mentionne des étapes standard de processus, mais ne spécifie pas les modalités de travail à distance.",
+"tool_calls": []
+},
+"192a20b63e2d1bd5f0bb04b03c4fc87ff0ebeb51": {
+"content": "Le document \"Politique de recrutement – Recrutement Élite inc.\" ne mentionne pas de logiciel de suivi des candidats.",
+"tool_calls": []
+},
+"193577fff1d3146e60ae21db0f9b727190b54426": {
+"content": "INCONNU",
+"tool_calls": []
+},
+"1a982eb641e67c0201d285138108067d7923f625": {
+"content": "Résumé : L'entrevue technique est une étape standard du processus de recrutement menée par un recruteur TI.\n\nL'entrevue technique est une étape obligatoire du mandat de recrutement en technologies de l'information.\n\nElle est menée par un recruteur TI selon un déroulement standard.\n\nCette étape fait suite à la recherche et présélection des candidats et précède l'évaluation par la [[Grille d'évaluation des candidats]].",
+"tool_calls": []
+},
+"1b0feb8b872c79157ac96ef4aa83d516d1c68a4c": {
+"content": "Assurances Riveraine exige une vérification des antécédents judiciaires pour tous les postes [[Assurances Riveraine]]. De plus, pour les postes TI au Réseau Cliniques Santé-Nord, une vérification des antécédents judiciaires est requise avant l'offre d'emploi [[Réseau Cliniques Santé-Nord]].",
+"tool_calls": []
+},
+"1b1c5dde67d3136eb0565c7b925be29a495117e6": {
+"content": "INCONNU",
+"tool_calls": []
+},
+"1b6cafad2a45729e64096634940d9c58ce7a059f": {
+"content": "L'entrevue technique est menée par un recruteur TI et suit un déroulement standard [[Politique de recrutement]]. Pour connaître sa durée exacte, veuillez consulter la page [[Entrevue technique]].",
+"tool_calls": []
+},
+"1b87cfd4de392a05395724496c51bbb648ba0bca": {
+"content": "Résumé : L'entrevue technique dure généralement 60 minutes, mais pour les postes en sécurité offensive, elle est remplacée par un exercice pratique à domicile.\n\nL'entrevue technique dure **60 minutes**. Elle se déroule en visioconférence, sauf si le client demande une entrevue sur place.\n\nLe déroulement comprend cinq temps :\n1. **Accueil (5 min)** : Présentation du poste et du client, si le client accepte d'être nommé.\n2. **Parcours (15 min)** : Le candidat décrit deux projets récents et son rôle réel dans chacun.\n3. **Mise en situation (25 min)** : Un exercice propre au domaine du poste.\n4. **Questions du candidat (10 min)**.\n5. **Suite (5 min)** : Explication des prochaines étapes et du délai de réponse.\n\nDes exemples de mises en situation incluent :\n* **Infonuagique et DevOps** : concevoir le déploiement d'une application web sur deux régions, avec reprise après sinistre.\n* **Données** : proposer un pipeline qui charge les ventes quotidiennes de 40 magasins et détecte les fichiers manquants.\n* **Cybersécurité** : analyser un journal d'authentification et repérer une tentative d'intrusion.\n\n**Particularité pour la Cybersécurité (Sécurité offensive)** :\nPour un poste en sécurité offensive, la mise en situation de l'entrevue technique est remplacée par un exercice pratique de 2 heures, fait à la maison. Le candidat reçoit l'exercice 48 heures avant son entrevue.\n\nL'entrevue n'est pas enregistrée par défaut.",
+"tool_calls": []
+},
+"1b9865e0deb2c036b4f9eba726a3bf8b594768c2": {
+"content": "Résumé : Les données recueillies pour le recrutement doivent être strictement limitées aux informations nécessaires à l'évaluation des compétences.\n\nLes informations recueillies doivent servir uniquement au recrutement.\n\nIl est interdit de recueillir :\n* La date de naissance.\n* Le numéro d'assurance sociale.\n* Une photo.\n\nLes notes d'entrevue doivent décrire des compétences et des faits, et ne doivent jamais contenir d'opinions sur la personne.\n\n[[Consentement]]\n[[Droits des candidats]]",
+"tool_calls": []
+},
+"1ba4dec5d49744db308d17185ce613498431a31f": {
+"content": "Je ne trouve aucune information concernant le nombre de références nécessaires pour un poste de gestion dans les documents disponibles [[index]].",
+"tool_calls": []
+},
+"1df93aead36a569904dfcc3a994aa580a7586c0e": {
+"content": "INCONNU",
+"tool_calls": []
+},
+"1e4339e5bd515bd1ca2a60ad85d5c41f9b0743ba": {
+"content": "Je vous prie de m'excuser. J'ai lu la page index, qui liste toutes les pages du wiki, et j'ai utilisé cette information pour répondre à votre question précédente.\n\nSi vous souhaitez que je lise des pages spécifiques, veuillez me donner les titres des pages que vous considérez comme \"utiles\". Sinon, je peux continuer à utiliser les informations disponibles dans le wiki.",
+"tool_calls": []
+},
+"1f635ca1e87704d10b93d03cefd90b97a71589dc": {
+"content": "INCONNU",
+"tool_calls": []
+},
+"1fda1c94d5ca5fd7af2ebf8801f6a46c9e2077c6": {
+"content": "Pour les postes TI, le Réseau Cliniques Santé-Nord exige le bilinguisme français-anglais [[Réseau Cliniques Santé-Nord]].",
+"tool_calls": []
+},
+"20cdc224195a0b28251aebe3b965cb63309c6f43": {
+"content": "Les données d'Assurances Riveraine doivent rester hébergées au Canada [[Assurances Riveraine]].",
+"tool_calls": []
+},
+"20e79a94c7d294b92e282795a3ea1582ed57dcaa": {
+"content": "Les certifications Microsoft Azure mentionnées sont l'Azure Administrator (AZ-104) et l'Azure Solutions Architect Expert (AZ-305) [[Veille DevOps]]. De plus, les candidats en infonuagique doivent connaître les régions canadiennes d'Azure pour les données du client [[Assurances Riveraine]].",
+"tool_calls": []
+},
+"21a854468f34bc4e64375fa56540cfba6e734162": {
+"content": "Les honoraires standard du cabinet sont de 20 % du salaire annuel de base du candidat embauché, et ils sont facturés à l'embauche [[2026-01-12-politique-recrutement.md]].",
+"tool_calls": []
+},
+"21b4e229a71e67bdca8e436b0e362b586a5e28da": {
+"content": "Résumé : La vérification des références est obligatoire avant de présenter un candidat à un client et suit des étapes précises concernant le nombre de références, les questions à poser et le suivi post-appel.\n\nLa vérification des références est obligatoire avant de présenter un candidat à un client.\n\n**Nombre de références**\n*   Deux références au minimum.\n*   Au moins une des deux doit provenir d'un supérieur immédiat des 3 dernières années.\n*   La seconde référence peut être un collègue, un client du candidat ou un professeur.\n*   Pour un poste de gestion, une troisième référence est demandée : une personne que le candidat a supervisée.\n\n**Avant l'appel**\n*   Obtenir le consentement écrit du candidat pour joindre ses références (voir [[Consentement]]).\n*   Confirmer le titre et l'employeur de la référence sur un réseau professionnel.\n\n**Pendant l'appel**\nLes questions types incluent :\n1.  Dans quel contexte avez-vous travaillé avec le candidat, et pendant combien de temps ?\n2.  Quelles étaient ses principales responsabilités ?\n3.  Quelle est sa plus grande force technique ?\n4.  Sur quoi devrait-il encore progresser ?\n5.  Le réembaucheriez-vous ?\n\n**Après l'appel**\n*   Résumer chaque appel en 5 à 10 lignes dans le dossier du candidat.\n*   Si une référence contredit le CV sur un fait (titre, dates, responsabilités), en parler au candidat avant de le présenter.",
+"tool_calls": []
+},
+"220198f7a19c09e7bdade111552c2eb42edfc91f": {
+"content": "Non, un outil d'IA ne peut pas écarter un candidat, car toute décision concernant un candidat doit être prise par un recruteur [[Utilisation de l'IA]]. De plus, la grille d'évaluation des candidats stipule que le seuil de présentation est de 70 points, et une note éliminatoire est fixée à moins de 30 points sur 50 en compétence technique [[Grille d'évaluation des candidats]].",
+"tool_calls": []
+},
+"2237ad46ce493368adf26cfd0ca56c8206832ffb": {
+"content": "```json\n{\n  \"pages\": [\n    \"Consentement\",\n    \"Droits des candidats\",\n    \"Minimisation des données\"\n  ]\n}\n```",
+"tool_calls": []
+},
+"22514f3059d58532180c090f75ad15778c6754ba": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher",
+"arguments": {
+"mots": "vérification des antécédents judiciaires"
+}
+}
+}
+]
+},
+"22a2211e4048b346a630d84b4736f59e07afb303": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_page",
+"arguments": {
+"titre": "index"
+}
+}
+}
+]
+},
+"23992533c9dfdc910ce20be0b5271aea4b0f9f2e": {
+"content": "Pour présenter une ingénieure de données à Assurances Riveraine, il est obligatoire de vérifier au moins deux références, dont au moins une provenant d'un supérieur immédiat des trois dernières années [[Vérification des références]]. Concernant le délai, le cabinet doit recevoir les dossiers des candidats au plus tard 10 jours ouvrables après l'ouverture du mandat [[Assurances Riveraine]].",
+"tool_calls": []
+},
+"2625f0b2c45e537d2a0b33efaa2274ea33d363ce": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher",
+"arguments": {
+"mots": "seuil de points"
+}
+}
+}
+]
+},
+"274e7e68c7edd853d032fb3ccdcae1d742a94b4e": {
+"content": "Je ne peux pas répondre à cette question car je n'ai pas accès à des informations concernant les politiques de télétravail spécifiques à \"Santé-Nord\".",
+"tool_calls": []
+},
+"2926ed4478d9d181cd525f2288664c1e3ded3568": {
+"content": "Résumé : Le consentement doit être obtenu par écrit pour la conservation du CV et la présentation à chaque client, et un consentement écrit distinct est requis pour la vérification des références.\n\nLe candidat doit donner son consentement par écrit pour :\n*   La conservation de son CV et sa présentation à des clients.\n*   La vérification de ses références.\n\nLe consentement doit être obtenu pour chaque client auquel le candidat sera présenté.\n\n[[Droits des candidats]]",
+"tool_calls": []
+},
+"296a8d1884237b85eb6ca185d4cc536062fc012d": {
+"content": "Un candidat doit obtenir un seuil de présentation de 70 points pour être présenté au client [[Grille d'évaluation des candidats]]. De plus, il y a une note éliminatoire de moins de 30 points sur 50 en compétence technique, quel que soit le total [[Grille d'évaluation des candidats]].",
+"tool_calls": []
+},
+"29d2481d7456071496daa23cd0d1452a7b3b421a": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_page",
+"arguments": {
+"titre": "Veille DevOps"
+}
+}
+}
+]
+},
+"2b775ad785c3f9f19788bcb6c3ff625cbf8b634b": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_page",
+"arguments": {
+"titre": "Processus de recrutement - Sécurité Offensive"
+}
+}
+}
+]
+},
+"2ba625fa3ad49e48ab1154053126c23c08b5e022": {
+"content": "Le responsable de la protection des renseignements personnels du cabinet est Marc-André Pelletier [[2026-01-19-guide-loi25.md]]. Il est responsable de signaler toute perte ou tout accès non autorisé à des renseignements personnels le jour même [[2026-01-19-guide-loi25.md]].",
+"tool_calls": []
+},
+"2d9b4e0627cfe109ea1095a146dab8205bcbcf65": {
+"content": "Un candidat est éliminé s'il obtient moins de 30 points sur 50 en compétence technique, quel que soit son total [[2026-01-12-grille-evaluation.md]].",
+"tool_calls": []
+},
+"2e4533e954ca37e3cc0ca7a04282209c2572cb0d": {
+"content": "Pour un poste qui n'est pas de gestion, il faut vérifier au minimum deux références [[Vérification des références]]. Au moins une de ces deux références doit provenir d'un supérieur immédiat des trois dernières années [[Vérification des références]].",
+"tool_calls": []
+},
+"3013d28a6e4dfc510c54a5d014117a6271d70e72": {
+"content": "INCONNU",
+"tool_calls": []
+},
+"30161390e24c9a5e3fdd9ac11bfdb9f14a69369d": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_page",
+"arguments": {
+"titre": "Vérification des références"
+}
+}
+}
+]
+},
+"308aca805d0c371022e4e3b9eb86c6afcf74c622": {
+"content": "INCONNU",
+"tool_calls": []
+},
+"316d50a7ed07a08ee919ebbf91e509b6dd512a18": {
+"content": "Le recruteur appelle le candidat après 30 jours en poste pour le suivi [[2026-01-12-politique-recrutement.md]].",
+"tool_calls": []
+},
+"3280bae116b1f5644aa693c306420cada99f7261": {
+"content": "Je ne peux pas répondre à cette question car les informations concernant les documents à signer ou les certifications de gouvernance pertinentes pour un candidat en cybersécurité chez Santé-Nord ne sont pas disponibles dans les pages consultées [[index]].",
+"tool_calls": []
+},
+"336413d5e177864af058dafa5627377079d59a5b": {
+"content": "Les conditions particulières d'un client ont priorité sur les conditions standard [[Politique de recrutement]]. Pour Manufacturier Boréal, il n'y a pas de garantie de remplacement mentionnée, mais les conditions commerciales sont standard du cabinet [[Manufacturier Boréal]].",
+"tool_calls": []
+},
+"3415075807e703ffaa2638add580f8f7bdcbf401": {
+"content": "La vérification des références est obligatoire avant de présenter un candidat à un client [[Vérification des références]]. Cependant, le wiki ne mentionne pas spécifiquement quels clients exigent une vérification des antécédents judiciaires.",
+"tool_calls": []
+},
+"34d6d13ac340d307014e35677372ca1e2ddb6429": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_document",
+"arguments": {
+"nom": "2026-02-26-procedure-references.md"
+}
+}
+}
+]
+},
+"34e10f15f03d35e889fa3332582c977f0c2a3539": {
+"content": "```json\n{\n  \"pages\": [\n    {\n      \"titre\": \"Réseau Cliniques Santé-Nord\",\n      \"action\": \"modifier\"\n    }\n  ]\n}\n```",
+"tool_calls": []
+},
+"35129b0ec02e7ec2a4999ed5a88e657077cc73d0": {
+"content": "INCONNU",
+"tool_calls": []
+},
+"3688745c79f89d8d83a56438ec9002e155d428ae": {
+"content": "Je vous prie de m'excuser. Je vais lire les pages utiles pour tenter de trouver l'information.",
+"tool_calls": [
+{
+"function": {
+"name": "lire_page",
+"arguments": {
+"titre": "Politique de recrutement"
+}
+}
+}
+]
+},
+"369874d98cf0fa0f59c81d90d2efbec83f9b8250": {
+"content": "Je ne trouve aucune information concernant la durée de conservation du dossier d'un candidat non retenu dans les pages disponibles [[index]].",
+"tool_calls": []
+},
+"3745da4aae7148c2afc09e9dfe8e70b65700012a": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_document",
+"arguments": {
+"nom": "2026-02-09-veille-cloud-devops.md"
+}
+}
+}
+]
+},
+"3a7d92c42397d8c174281e053a54daeba2f28504": {
+"content": "INCONNU",
+"tool_calls": []
+},
+"3aa46f13afe59973b99d596ddc8d668afbd109d6": {
+"content": "Le dossier d'un candidat non retenu est conservé pendant **12 mois** après la fin du mandat s'il accepte cette durée dans son formulaire de consentement révisé par Marc-André Pelletier [[Conservation des dossiers]]. Si le candidat refuse cette durée, la règle de conservation est de **6 mois** [[Conservation des dossiers]].",
+"tool_calls": []
+},
+"3afda08d0ce9f9b9231d3b88bc1f36ba821f8b30": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_document",
+"arguments": {
+"nom": "2026-02-16-veille-cybersecurite.md"
+}
+}
+}
+]
+},
+"3c1f2166cc0bb2600919139a0f25278731876a31": {
+"content": "L'entrevue finale chez Manufacturier Boréal se déroule sur place, à l'usine principale, avec le directeur de la production [[2026-03-02-fiche-client-manufacturier-boreal.md]].",
+"tool_calls": []
+},
+"3c659a9d66c6c28b45cda18f5d94ad9c5211a5b0": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher",
+"arguments": {
+"mots": "vérification des antécédents judiciaires"
+}
+}
+}
+]
+},
+"3d6f3a47f3c95fc5b51e0a7dac8ca8ec6bc9891f": {
+"content": "Les données du client Assurances Riveraine doivent rester hébergées au Canada [[2026-02-23-fiche-client-assurances-riveraine.md]]. Les candidats en infonuagique doivent donc connaître les régions canadiennes d'Azure [[2026-02-23-fiche-client-assurances-riveraine.md]].",
+"tool_calls": []
+},
+"3dde324889d0c5ac117d65c58460472313be3ba6": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_document",
+"arguments": {
+"nom": "2026-02-23-fiche-client-assurances-riveraine.md"
+}
+}
+}
+]
+},
+"3ea58e73019f139a1155b04c924283115a5c00bc": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_document",
+"arguments": {
+"nom": "2026-01-12-politique-recrutement.md"
+}
+}
+}
+]
+},
+"3f18c902e30e20866a31843661b32bd6cc2537b2": {
+"content": "Résumé : La réponse aux candidats après une entrevue doit être envoyée dans les 5 jours ouvrables, même si le client n'a pas encore pris de décision.\n\nLa réponse après une entrevue doit être envoyée dans les 5 jours ouvrables, même si le client n'a pas encore décidé.\n\n[[Politique de recrutement]]",
+"tool_calls": []
+},
+"3fa792a4d43d4917cbe576f06da30e72f3b21bff": {
+"content": "Je vous prie de m'excuser. Je vais lire les pages utiles pour répondre à votre question.",
+"tool_calls": [
+{
+"function": {
+"name": "lire_page",
+"arguments": {
+"titre": "Politique de recrutement"
+}
+}
+}
+]
+},
+"3fa993bf57b09b9bb3fb97cd45c724aeb98b7756": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_document",
+"arguments": {
+"nom": "2026-01-19-guide-loi25.md"
+}
+}
+}
+]
+},
+"3facf9059142b0bdcefb8a6d0aa7b030ac2f7f78": {
+"content": "```json\n{\n  \"pages\": [\n    {\n      \"titre\": \"Entrevue technique\",\n      \"action\": \"modifier\"\n    }\n  ]\n}\n```",
+"tool_calls": []
+},
+"40ba7228fab1a1cd419a05b89c30d6cd95b32481": {
+"content": "Résumé : La page détaille les profils, les certifications et les modalités d'évaluation pour les postes en cybersécurité.\n\nLes mandats en cybersécurité prennent en moyenne deux fois plus de temps à combler que les autres.\n\nLes familles de postes en cybersécurité incluent :\n*   **Sécurité défensive :** analyste en centre des opérations de sécurité (SOC), réponse aux incidents, gestion d'un SIEM.\n*   **Sécurité offensive :** tests d'intrusion, équipe rouge.\n*   **Gouvernance :** gestion des risques, conformité, ISO 27001, Loi 25.\n\nLes certifications requises par famille sont :\n*   **Défensive :** CompTIA Security+ (junior), GIAC GCIH (réponse aux incidents).\n*   **Offensive :** OSCP.\n*   **Gouvernance et gestion :** CISSP, CISM.\n\nPour un poste en sécurité offensive, l'entrevue technique est remplacée par un exercice pratique de 2 heures, remis au candidat 48 heures avant l'entrevue.\n\n*Note : Assurances Riveraine exige une vérification des antécédents judiciaires pour tous les postes.*",
+"tool_calls": []
+},
+"4266380ab1fcb1e443ba29c7ae3d3289a14a3b78": {
+"content": "Les informations concernant le salaire offert pour un poste DevOps chez Manufacturier Boréal ne sont pas disponibles dans les documents consultés [[Manufacturier Boréal]]. Cependant, les conditions commerciales standard du cabinet stipulent que les honoraires sont de 20 % du salaire annuel de base du candidat embauché [[Politique de recrutement]].",
+"tool_calls": []
+},
+"4359d6202d9d8f0effc4590f2e436120f16b5cd8": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_page",
+"arguments": {
+"titre": "Politique de recrutement"
+}
+}
+}
+]
+},
+"4487b553b8e6f6bf833e7ea3ed34754cadde253a": {
+"content": "Santé-Nord exige désormais le bilinguisme français-anglais pour tous les postes TI, suite à un audit de sécurité [[2026-05-04-courriel-sante-nord.md]].",
+"tool_calls": []
+},
+"452bdb9b17d6f613cbbe5b58c46c773ebb2c496b": {
+"content": "L'information concernant les honoraires standard du cabinet n'est pas disponible dans les pages du wiki consultées [[Index du wiki]].",
+"tool_calls": []
+},
+"47331105a9d542727714f57841edef5aacc67240": {
+"content": "Toutes les données du client Assurances Riveraine doivent rester hébergées au Canada [[Assurances Riveraine]]. Les candidats en infonuagique doivent donc connaître les régions canadiennes d'Azure [[Assurances Riveraine]].",
+"tool_calls": []
+},
+"479143811a569d15b1df587862630298175f2cd0": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lister_documents",
+"arguments": {}
+}
+}
+]
+},
+"47b2826692a886c8d517a96f6a55c85a0fd4e078": {
+"content": "INCONNU",
+"tool_calls": []
+},
+"47da6cb6b2c1946411dc6a6a46553e88df5da6d2": {
+"content": "Assurances Riveraine inc. exige une vérification des antécédents judiciaires pour tous les postes, et Réseau Cliniques Santé-Nord exige également une vérification des antécédents judiciaires pour tous les postes TI à partir de maintenant [[2026-02-23-fiche-client-assurances-riveraine.md], [2026-05-04-courriel-sante-nord.md]].",
+"tool_calls": []
+},
+"4b3867735445871b6c9b8f5c03857bf1147836e3": {
+"content": "```json\n{\n  \"pages\": [\n    \"Conservation des dossiers\",\n    \"Consentement\",\n    \"Droits des candidats\"\n  ]\n}\n```",
+"tool_calls": []
+},
+"4bb83e3a3f264e485a27e244e605dffe1d5b5dfc": {
+"content": "```json\n{\n  \"pages\": [\n    {\n      \"titre\": \"Politique de recrutement\",\n      \"action\": \"creer\"\n    },\n    {\n      \"titre\": \"Entrevue technique\",\n      \"action\": \"modifier\"\n    }\n  ]\n}\n```",
+"tool_calls": []
+},
+"4db0c51dbe191261740154baf6d52e6be987d50a": {
+"content": "```json\n{\n  \"pages\": [\n    \"Veille Cybersécurité\",\n    \"Grille d'évaluation des candidats\",\n    \"Politique de recrutement\"\n  ]\n}\n```",
+"tool_calls": []
+},
+"4e3f3ab94717a485c3fd5f80197d9cc69b35322e": {
+"content": "Les données du client Assurances Riveraine doivent rester hébergées au Canada [[Assurances Riveraine]]. De plus, les candidats en infonuagique doivent connaître les régions canadiennes d'Azure [[Assurances Riveraine]].",
+"tool_calls": []
+},
+"4f4f394090d5984363521693a71324153af91a2e": {
+"content": "La garantie de remplacement d'Assurances Riveraine est de 120 jours suite à une entente de volume pour 2026 [[Assurances Riveraine]].",
+"tool_calls": []
+},
+"4f57974fa8871850e9060ae293dc6f8571098acc": {
+"content": "Non, un outil d'IA ne peut jamais écarter un candidat ni lui attribuer une note ; chaque décision sur un candidat doit être prise par un recruteur [[2026-03-16-compte-rendu-reunion.md]]. De plus, le seuil de présentation est de 70 points, et un candidat avec moins de 30 points sur 50 en compétence technique est éliminatoire, peu importe le total [[2026-01-12-grille-evaluation.md]].",
+"tool_calls": []
+},
+"51f25bbfb7db0c71546c9914c5bf9758defb2dd1": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_page",
+"arguments": {
+"titre": "Veille Cybersécurité"
+}
+}
+}
+]
+},
+"536b1a49ab68e6c9f587425d8cea67b06b3debd2": {
+"content": "Résumé : Les candidats disposent de droits spécifiques concernant l'accès, la correction de leur dossier, le retrait de leur consentement et le délai de réponse du cabinet.\n\nUn candidat peut demander à consulter son dossier ou à le faire corriger. Le cabinet doit répondre dans un délai de **30 jours** [[Droits des candidats]].\n\nUn candidat peut retirer son consentement en tout temps. Son dossier doit être détruit dans les 10 jours ouvrables [[Droits des candidats]].\n\nLes droits des candidats sont encadrés par la Loi 25 [[Droits des candidats]].",
+"tool_calls": []
+},
+"53e131b07eb853da7d0ba4902724f40375c79c54": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lister_documents",
+"arguments": {}
+}
+}
+]
+},
+"5467cf35026632fbd51cfd1a31c1e9ae9a489931": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_page",
+"arguments": {
+"titre": "Réseau Cliniques Santé-Nord"
+}
+}
+}
+]
+},
+"54efb3136031c331b0e7833a6b74113bd3e1e7ad": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher",
+"arguments": {
+"mots": "Google Cloud certification"
+}
+}
+}
+]
+},
+"553e0dc6909974bba71113f52fbdb67004c85b40": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher",
+"arguments": {
+"mots": "Assurances Riveraine hébergement"
+}
+}
+}
+]
+},
+"5551f4c4edb27b105e1f3d37585905685f7506e2": {
+"content": "Les certifications Microsoft Azure mentionnées pour les postes en infonuagique sont l'**Azure Administrator (AZ-104)** et l'**Azure Solutions Architect Expert (AZ-305)** [[2026-02-09-veille-cloud-devops.md]].",
+"tool_calls": []
+},
+"56d3d6dad440e9078ac85bcff3671b2d76aab7c2": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher",
+"arguments": {
+"mots": "références poste gestion"
+}
+}
+}
+]
+},
+"57a697e4e673358ae6625cb7da6adbac1f84293e": {
+"content": "L'entrevue technique dure **60 minutes** [[Entrevue technique]]. Elle comprend cinq temps : Accueil (5 min), Parcours (15 min), Mise en situation (25 min), Questions du candidat (10 min), et Suite (5 min) [[Entrevue technique]].",
+"tool_calls": []
+},
+"57dfad53e3840f560e47be35e27d1a8f57eb53ea": {
+"content": "```json\n{\n  \"pages\": [\n    {\n      \"titre\": \"Veille DevOps\",\n      \"action\": \"modifier\"\n    },\n    {\n      \"titre\": \"Entrevue technique\",\n      \"action\": \"modifier\"\n    },\n    {\n      \"titre\": \"Veille Cybersécurité\",\n      \"action\": \"creer\"\n    }\n  ]\n}\n```",
+"tool_calls": []
+},
+"59554bb5b83f96f0324ceb54c02c2ef2b93bfa1a": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_page",
+"arguments": {
+"titre": "Veille DevOps"
+}
+}
+}
+]
+},
+"5a67f73be19044bc8394c301366322b72aa8da6f": {
+"content": "Résumé : L'enregistrement des entrevues techniques nécessite le consentement écrit du candidat, et l'enregistrement doit être détruit à la fin du mandat.\n\nL'enregistrement des entrevues techniques est autorisé uniquement avec le consentement écrit du candidat, ce consentement devant être recueilli avant l'entrevue.\n\nL'enregistrement doit être détruit à la fin du mandat.\n\n[[Consentement]]",
+"tool_calls": []
+},
+"5ad6077d7c6bec2063106352e746568af2216974": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_page",
+"arguments": {
+"titre": "Grille d'évaluation des candidats"
+}
+}
+}
+]
+},
+"5bac997ad6144669aa23fdf201ed6ba0cc9c2154": {
+"content": "```json\n{\n  \"pages\": [\n    {\n      \"titre\": \"Assurances Riveraine\",\n      \"action\": \"modifier\"\n    },\n    {\n      \"titre\": \"Délais de réponse\",\n      \"action\": \"creer\"\n    },\n    {\n      \"titre\": \"Enregistrement des entrevues\",\n      \"action\": \"creer\"\n    },\n    {\n      \"titre\": \"Utilisation de l'IA\",\n      \"action\": \"creer\"\n    }\n  ]\n}\n```",
+"tool_calls": []
+},
+"5cdc0b68e2b487dbef908408e149be484abc7abe": {
+"content": "```json\n{\n  \"pages\": [\n    {\n      \"titre\": \"Grille d'évaluation des candidats\",\n      \"action\": \"creer\"\n    }\n  ]\n}\n```",
+"tool_calls": []
+},
+"5d1ff8f678d2af08caa84eb7f219ba885dc79d98": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_document",
+"arguments": {
+"nom": "2026-02-09-veille-cloud-devops.md"
+}
+}
+}
+]
+},
+"5e2ba0b6211e8ac94379517f5eb905ba7da71580": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_document",
+"arguments": {
+"nom": "2026-01-12-politique-recrutement.md"
+}
+}
+}
+]
+},
+"5e3944c23573c50a9cb830c558d78e0414ddc79a": {
+"content": "Assurances Riveraine exige une vérification des antécédents judiciaires pour tous les postes [[Assurances Riveraine]]. De plus, la [[Veille Cybersécurité]] mentionne que ce client exige cette vérification pour tous les postes.",
+"tool_calls": []
+},
+"5e5800bfa69a49fed87e12b8f522c92dc1364f39": {
+"content": "Pour un poste qui n'est pas un poste de gestion, il faut un minimum de deux références [[2026-01-26-procedure-references.md]]. Au moins une de ces deux références doit provenir d'un supérieur immédiat des trois dernières années [[2026-01-26-procedure-references.md]].",
+"tool_calls": []
+},
+"5e74c87327d1a30467d6f8a40bdb6f615d5001b4": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_document",
+"arguments": {
+"nom": "2026-01-26-procedure-references.md"
+}
+}
+}
+]
+},
+"5e926a068757c5955c6e4b3dd20f1be5c0a5bdbb": {
+"content": "Pour un poste en sécurité offensive, la certification recherchée est l'**OSCP** [[2026-02-16-veille-cybersecurite.md]]. De plus, le processus d'entrevue technique pour ce type de poste est remplacé par un exercice pratique de 2 heures à réaliser à domicile [[2026-02-16-veille-cybersecurite.md]].",
+"tool_calls": []
+},
+"5e9839470bed62aecaf3c463fd463e3f7cde6720": {
+"content": "Le document de politique de recrutement stipule que l'évaluation des candidats se fait avec la grille d'évaluation du cabinet [[2026-01-12-politique-recrutement.md]]. Concernant les règles de décision, un candidat doit obtenir au moins 70 points pour être présenté au client [[2026-01-12-grille-evaluation.md]]. De plus, il y a une note éliminatoire de moins de 30 points sur 50 en compétence technique [[2026-01-12-grille-evaluation.md]].\n\nLe document ne mentionne pas si un recruteur peut utiliser une IA pour écarter les candidats sous le seuil de la grille.",
+"tool_calls": []
+},
+"5edb63440614c892a7fa361aeaf4338546274ddc": {
+"content": "La fiche client d'Assurances Riveraine inc. mentionne des exigences particulières telles que la vérification des antécédents judiciaires obligatoire pour tous les postes [[2026-02-23-fiche-client-assurances-riveraine.md]]. Cependant, elle ne détaille pas la garantie de remplacement.",
+"tool_calls": []
+},
+"5ee55364d04ebdb35dbc810461fb2c64309825ff": {
+"content": "La garantie de remplacement standard est de 90 jours, mais en raison d'une entente de volume pour 2026, la garantie de remplacement pour Assurances Riveraine passe à 120 jours [[2026-03-16-compte-rendu-reunion.md]].",
+"tool_calls": []
+},
+"5f2347cfaeefc7014cef1870fa1acb03b35d5b47": {
+"content": "Je ne trouve aucune information concernant le moment où le recruteur appelle la personne embauchée pour faire un suivi [[INCONNU]].",
+"tool_calls": []
+},
+"5f8e53281c402bf79fbf2648ad58b068a6604833": {
+"content": "L'entrevue finale chez Manufacturier Boréal se déroulera **sur place**, à l'usine principale, avec le directeur de la production [[2026-03-02-fiche-client-manufacturier-boreal.md]].",
+"tool_calls": []
+},
+"6005e8199474820bacc07c3bfd1c3556b2f5ee52": {
+"content": "Le seuil de présentation est de 70 points ; en dessous de ce montant, le candidat ne sera pas présenté au client [[2026-01-12-grille-evaluation.md]].",
+"tool_calls": []
+},
+"60f067cc3f9bae65cdb8af5bdd01a7e60e6889d8": {
+"content": "L'entrevue technique dure **60 minutes** [[2026-02-02-entrevue-technique.md]]. Elle se déroule en visioconférence, sauf si le client demande une entrevue sur place [[2026-02-02-entrevue-technique.md]].",
+"tool_calls": []
+},
+"61411a4e4f9caaa0a7ab88728c5609241ceb8379": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher",
+"arguments": {
+"mots": "sécurité offensive certification"
+}
+}
+}
+]
+},
+"614ff3f24eef66bf1d961bf35fef491b0965f9be": {
+"content": "Le wiki ne spécifie pas de politique de télétravail générale pour les recruteurs. Cependant, concernant un client spécifique, le Réseau Cliniques Santé-Nord limite le télétravail à 2 jours par semaine pour les postes TI [[Réseau Cliniques Santé-Nord]].",
+"tool_calls": []
+},
+"62b928651d759125bdda66395964cdfa363807d8": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_page",
+"arguments": {
+"titre": "Politique de télétravail"
+}
+}
+}
+]
+},
+"643a0f5581d149a4b04336011048ac0d54e73823": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_page",
+"arguments": {
+"titre": "Assurances Riveraine"
+}
+}
+}
+]
+},
+"6486e0ac58577a24785308bfacdc4a0245de5a59": {
+"content": "Le client Assurances Riveraine inc. exige la vérification des antécédents judiciaires pour tous les postes, mais la fiche client ne spécifie pas le nombre de références à vérifier. De plus, le client souhaite recevoir les dossiers des candidats au plus tard 10 jours ouvrables après l'ouverture du mandat [[2026-02-23-fiche-client-assurances-riveraine.md]].",
+"tool_calls": []
+},
+"64a0151a7b5ddd1f1b1b444718d70edc28b3a25b": {
+"content": "Le wiki indique que Manufacturier Boréal recherche des spécialistes DevOps et des développeurs pour ses applications d'usine et ses capteurs connectés [[Manufacturier Boréal]]. Cependant, aucune information concernant le salaire offert pour ce poste n'est disponible dans les pages consultées [[Manufacturier Boréal]].",
+"tool_calls": []
+},
+"672d1a5e149637fbf4d16dd885b19ab737a26533": {
+"content": "Je ne trouve aucune information concernant l'utilisation d'une IA par un recruteur pour écarter des candidats sous le seuil de la grille dans les documents disponibles [[INCONNU]].",
+"tool_calls": []
+},
+"673bc0c9671926bd30cd3eff903dd880754b1909": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_document",
+"arguments": {
+"nom": "2026-01-12-grille-evaluation.md"
+}
+}
+}
+]
+},
+"67c8d6a7952cb2fc9fdc3f3baa3bbfeacecdb742": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_document",
+"arguments": {
+"nom": "2026-01-19-guide-loi25.md"
+}
+}
+}
+]
+},
+"68cf51616102e8a23086ed2e2260032dc2c675d1": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_document",
+"arguments": {
+"nom": "2026-02-23-fiche-client-assurances-riveraine.md"
+}
+}
+}
+]
+},
+"6921c4133087b2ea9eeeb97cd2196e6cb8013f45": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_document",
+"arguments": {
+"nom": "2026-02-09-veille-cloud-devops.md"
+}
+}
+}
+]
+},
+"692e19575e7be34fd420328356c299e967ab5ea3": {
+"content": "Les certifications Microsoft Azure mentionnées sont l'**Azure Administrator (AZ-104)** et l'**Azure Solutions Architect Expert (AZ-305)** [[2026-02-09-veille-cloud-devops.md]].",
+"tool_calls": []
+},
+"69875a6bb316acb04f7915be917ea8d6848cfca2": {
+"content": "Le document \"Fiche client – Manufacturier Boréal\" mentionne que Manufacturier Boréal recherche des Spécialistes DevOps, mais il ne spécifie pas le salaire offert pour ce poste [[2026-03-02-fiche-client-manufacturier-boreal.md]].",
+"tool_calls": []
+},
+"6992990f18575e1cf4d6e504d1aa2f294b272d2e": {
+"content": "Résumé : Assurances Riveraine bénéficie d'une garantie de remplacement de 120 jours suite à une entente de volume pour 2026, et les profils recherchés incluent des ingénieurs de données et des analystes en sécurité défensive.\n\nLe client est Assurances Riveraine inc., un assureur de dommages établi à Trois-Rivières, comptant environ 900 employés.\n\nLes profils recherchés incluent :\n* Ingénieurs et ingénieures de données pour sa plateforme d'analyse des réclamations.\n* Analystes en sécurité défensive pour son centre des opérations de sécurité.\n\nExigences spécifiques :\n* Toutes les données du client doivent rester hébergées au Canada ; les candidats en infonuagique doivent connaître les régions canadiennes d'Azure.\n* La [[Vérification des références]] des antécédents judiciaires est obligatoire pour tous les postes, effectuée par le client après l'acceptation de l'offre.\n* Le cabinet doit recevoir les dossiers des candidats au plus tard 10 jours ouvrables après l'ouverture du mandat.\n* La garantie de remplacement est de 120 jours (Entente de volume 2026).",
+"tool_calls": []
+},
+"6a4bb4bd917757f7766f1b7bb8d7a4caa22c6d16": {
+"content": "Je vous prie de m'excuser. J'ai lu la page index, qui liste toutes les pages du wiki, et j'ai trouvé l'information nécessaire dans la page [[Entrevue technique]].\n\nL'entrevue technique dure généralement 60 minutes, mais pour les postes en sécurité offensive, elle est remplacée par un exercice pratique à domicile [[Entrevue technique]].",
+"tool_calls": []
+},
+"6a5b5e7fbef9e21054ba8d3ccae708aacd8b92d5": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_page",
+"arguments": {
+"titre": "Conservation des dossiers"
+}
+}
+}
+]
+},
+"6b87bb89d5801b2a77221845834370461e1f7d87": {
+"content": "Pour un candidat en cybersécurité gouvernance chez Santé-Nord, il doit signer un **engagement de confidentialité** du client avant l'entrevue finale [[2026-03-09-fiche-client-sante-nord.md]]. Concernant les certifications, les documents consultés ne mentionnent pas de certification de gouvernance spécifique pertinente [[2026-03-09-fiche-client-sante-nord.md], [2026-01-12-politique-recrutement.md]].",
+"tool_calls": []
+},
+"6bafa337d88ad44809114c9b5e58a24593ecfb41": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_document",
+"arguments": {
+"nom": "2026-01-12-politique-recrutement.md"
+}
+}
+}
+]
+},
+"6be837a10b75c0be08e03ae774cb5206a90743ff": {
+"content": "Les clients qui exigent une vérification des antécédents judiciaires sont ceux mentionnés dans la fiche client d'Assurances Riveraine inc. [[2026-02-23-fiche-client-assurances-riveraine.md]]. Cette vérification est obligatoire pour tous les postes chez ce client [[2026-02-23-fiche-client-assurances-riveraine.md]].",
+"tool_calls": []
+},
+"6c698eb32126836b14746a544733b1a74a39fa26": {
+"content": "INCONNU",
+"tool_calls": []
+},
+"6c81d8c9f8d99adfd35e54f2ff3419c2e905773c": {
+"content": "Le responsable de la protection des renseignements personnels du cabinet est Marc-André Pelletier [[2026-01-19-guide-loi25.md]]. Il est responsable de signaler toute perte ou tout accès non autorisé à des renseignements personnels le jour même [[2026-01-19-guide-loi25.md]].",
+"tool_calls": []
+},
+"6d45cd2ff2214a2c616efbb5ee0efa6299c877c7": {
+"content": "Résumé : La grille d'évaluation des candidats note les postulants sur 100 points selon trois axes : Compétence technique (50 points), Communication (25 points) et Adéquation au poste et au client (25 points).\n\nTous les candidats sont notés sur 100 points après l'entrevue technique, en utilisant la grille d'évaluation des candidats.\n\nLes trois axes d'évaluation sont :\n*   **Compétence technique (50 points)** : Évalue la maîtrise des technologies du poste, la qualité des réponses à la mise en situation et la profondeur des projets décrits.\n*   **Communication (25 points)** : Évalue la clarté, la capacité à expliquer un sujet technique à un non-spécialiste et l'écoute.\n*   **Adéquation au poste et au client (25 points)** : Évalue la motivation, les attentes salariales, le mode de travail souhaité et les valeurs.\n\n**Règles de décision :**\n*   **Seuil de présentation :** 70 points. Un candidat avec moins de 70 points n'est pas présenté au client.\n*   **Note éliminatoire :** Moins de 30 points sur 50 en compétence technique, quel que soit le total.\n*   **Relecture :** Entre 65 et 69 points, le recruteur peut demander une seconde lecture à un collègue. La note finale est alors la moyenne des deux.\n\n**Bonnes pratiques :**\n*   Noter chaque axe immédiatement après l'entrevue, avant de discuter du candidat avec un collègue.\n*   Justifier chaque note en une ou deux phrases dans le dossier.\n*   Il est interdit de tenir compte de l'âge, de l'origine, du genre, de l'état civil ou d'une situation de handicap.",
+"tool_calls": []
+},
+"6e6fa41a4eb4eb479013b52441d7bc6fa10e3426": {
+"content": "Le Réseau Cliniques Santé-Nord limite le télétravail à 2 jours par semaine [[Réseau Cliniques Santé-Nord]].",
+"tool_calls": []
+},
+"6fd1ab804d5f93ec77d1116010695cef1381dc59": {
+"content": "Pour un candidat en cybersécurité gouvernance chez Santé-Nord, il doit signer un **engagement de confidentialité** du client avant l'entrevue finale [[Réseau Cliniques Santé-Nord]]. Concernant la certification, les profils de gouvernance recommandent des certifications telles que **CISSP** ou **CISM** [[Veille Cybersécurité]].",
+"tool_calls": []
+},
+"71a37d27ec410da2a680301e3bb6fe837a428ad2": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_document",
+"arguments": {
+"nom": "2026-02-02-entrevue-technique.md"
+}
+}
+}
+]
+},
+"725afa2aba206914a484bd22a7a0004d0962c4ed": {
+"content": "Le cabinet doit répondre dans un délai de **30 jours** lorsqu'un candidat demande à consulter son dossier [[Droits des candidats]].",
+"tool_calls": []
+},
+"7329784cf01848bba89493ea4b4ce6c49f1c40f2": {
+"content": "Je vous prie de m'excuser. J'ai lu la page `index` qui liste les pages disponibles, et j'ai utilisé les informations de cette page ainsi que les pages spécifiques mentionnées dans ma réponse précédente.\n\nSi vous souhaitez que je lise des pages spécifiques, veuillez me donner leurs titres. Sinon, je peux continuer à répondre en me basant sur les informations contenues dans le wiki que j'ai déjà consulté.",
+"tool_calls": []
+},
+"740ddd29d3d73a845953e51f3858ae2619c6d9b2": {
+"content": "```json\n{\n  \"pages\": [\n    \"Veille DevOps\",\n    \"Grille d'évaluation des candidats\",\n    \"Politique de recrutement\"\n  ]\n}\n```",
+"tool_calls": []
+},
+"77aedcfe2165ab5e55bcd18bac065a8b9ac25951": {
+"content": "```json\n{\n  \"pages\": [\n    \"Manufacturier Boréal\",\n    \"Grille d'évaluation des candidats\",\n    \"Politique de recrutement\"\n  ]\n}\n```",
+"tool_calls": []
+},
+"785568aa989752e5aa39c4adac300c2bea125e93": {
+"content": "Résumé : La conservation des dossiers dépend du statut du candidat (non retenu ou embauché) et est régie par des délais spécifiques.\n\nLe dossier d'un candidat non retenu est conservé **6 mois** après la fin du mandat, puis détruit.\n\nLe dossier d'une personne embauchée est conservé pendant la durée de la garantie de remplacement, puis réduit au CV et au contrat.\n\nPour toute question relative aux droits du candidat, voir [[Droits des candidats]].",
+"tool_calls": []
+},
+"78684ba8a3f81f0217163bcd471e6a71c2bfdd5b": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_page",
+"arguments": {
+"titre": "Manufacturier Boréal"
+}
+}
+}
+]
+},
+"790de870eaa9c9076b8926e46ae60d3c21a07dfa": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_page",
+"arguments": {
+"titre": "Réseau Cliniques Santé-Nord"
+}
+}
+}
+]
+},
+"7c8a9f751f4e4fa08273ad466ac418b2c147f55c": {
+"content": "Je ne trouve aucune information concernant le nombre minimum de références à vérifier pour un poste non managérial dans les documents disponibles [[index]].",
+"tool_calls": []
+},
+"7d866a78741f12cf37611669ff795ec143432b55": {
+"content": "Recrutement Élite inc. ne mentionne pas son propre nombre d'employés dans les documents consultés. Cependant, les fiches clients indiquent que Manufacturier Boréal compte environ 350 employés [[2026-03-02-fiche-client-manufacturier-boreal.md]] et Assurances Riveraine inc. compte environ 900 employés [[2026-02-23-fiche-client-assurances-riveraine.md]].",
+"tool_calls": []
+},
+"7deb495f56c6bd21f6e1f854a998ffe6048a993d": {
+"content": "Pour présenter un candidat, la vérification des références est obligatoire et nécessite au minimum deux références [[Vérification des références]]. Concernant Assurances Riveraine, le cabinet doit recevoir les dossiers des candidats au plus tard 10 jours ouvrables après l'ouverture du mandat [[Assurances Riveraine]].",
+"tool_calls": []
+},
+"7ecd4fc01c2eca6ba01ad0d541d98476d6fa0760": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher",
+"arguments": {
+"mots": "Google Cloud certification"
+}
+}
+}
+]
+},
+"7f498fd0ed47da3d4992ce8cdf3f5b4664bc3813": {
+"content": "Santé-Nord exige le bilinguisme français-anglais pour tous les postes TI, car deux de leurs fournisseurs de logiciels médicaux n'offrent leur soutien qu'en anglais [[Courriel – Nouvelles exigences de Santé-Nord]].",
+"tool_calls": []
+},
+"80316049de368d26df58c1ed4a0306cf9c87ce25": {
+"content": "Pour un candidat en cybersécurité gouvernance chez Santé-Nord, il doit signer un engagement de confidentialité du client avant l'entrevue finale [[Réseau Cliniques Santé-Nord]]. Concernant les certifications de gouvernance, le CISSP et le CISM sont mentionnés comme pertinents dans le cadre de la Veille Cybersécurité [[Veille Cybersécurité]].",
+"tool_calls": []
+},
+"803d82e93d4c6bcd5d5f0ac57c655b2adc81f552": {
+"content": "Le recruteur appelle le candidat après 30 jours en poste pour faire un suivi [[Politique de recrutement]].",
+"tool_calls": []
+},
+"812ff64470f5ee0e5ae5fa740cd27cb47709234c": {
+"content": "Les honoraires standard du cabinet sont de **20 % du salaire annuel de base** du candidat embauché, et ils sont facturés à l'embauche [[2026-01-12-politique-recrutement.md]]. Si la personne embauchée quitte ou est congédiée dans les 90 jours, le cabinet trouve un remplaçant sans frais [[2026-01-12-politique-recrutement.md]].",
+"tool_calls": []
+},
+"81c4e669459075519eaaf4438f268a9a89b1f542": {
+"content": "INCONNU",
+"tool_calls": []
+},
+"81fda8687131375d2b2f52878aa1cd1e7d834fe3": {
+"content": "INCONNU",
+"tool_calls": []
+},
+"83653c5bb47a73abaabbf106ac02a7f7f5a7ff57": {
+"content": "Le seuil de présentation est de 70 points, et un candidat ayant moins de ce score ne sera pas présenté au client [[Grille d'évaluation des candidats]]. De plus, il y a une note éliminatoire de moins de 30 points sur 50 en compétence technique, quel que soit le total [[Grille d'évaluation des candidats]].",
+"tool_calls": []
+},
+"83f65ab584224db27eb6448a5170fe4430f8fa0e": {
+"content": "INCONNU",
+"tool_calls": []
+},
+"8408f42643a895bde586080f0d47a92bcd992e0c": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_page",
+"arguments": {
+"titre": "index"
+}
+}
+}
+]
+},
+"84e1c616825e1126c9933fa02d34c788f6b61380": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_document",
+"arguments": {
+"nom": "2026-01-26-procedure-references.md"
+}
+}
+}
+]
+},
+"857211af31d243daec239e2eeaacf1eb722b3923": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_page",
+"arguments": {
+"titre": "Veille Cybersécurité"
+}
+}
+}
+]
+},
+"85a48715a2f8814fd68679c3a8860a293b2472b7": {
+"content": "Selon les notes de veille sur l'Infonuagique et DevOps, les fournisseurs mentionnés pour les compétences sont AWS, Azure et GCP [[2026-02-09-veille-cloud-devops.md]]. Cependant, les certifications les plus vues sont celles d'AWS et de Microsoft Azure, et non une certification Google Cloud spécifique [[2026-02-09-veille-cloud-devops.md]].",
+"tool_calls": []
+},
+"86e91ee26bdf8a43f96f6fc3682086bafc3cbde3": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_page",
+"arguments": {
+"titre": "Politique de recrutement"
+}
+}
+}
+]
+},
+"86f8538d8fbb35df28e046af689e92888a101b39": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_page",
+"arguments": {
+"titre": "Minimisation des données"
+}
+}
+}
+]
+},
+"8761f2dab6c1e763cc20ed8fe1c160c35021f274": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_document",
+"arguments": {
+"nom": "2026-02-02-entrevue-technique.md"
+}
+}
+}
+]
+},
+"892b671a1a4d7e81ebf6b4d64418fc7a85923ed0": {
+"content": "Les données d'Assurances Riveraine doivent être hébergées **au Canada** [[2026-02-23-fiche-client-assurances-riveraine.md]].",
+"tool_calls": []
+},
+"8a15ad71333cfdbd92476575e0660e2db5a43dbf": {
+"content": "Le cabinet doit répondre dans un délai de **30 jours** lorsqu'un candidat demande à consulter son dossier [[Droits des candidats]].",
+"tool_calls": []
+},
+"8a30ebe096ae0b62e3af825555b2f42b88b451fb": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher",
+"arguments": {
+"mots": "suivi personne embauchée"
+}
+}
+}
+]
+},
+"8a6201f6f4def748e49e5c7c66fa3d5f11b3197e": {
+"content": "Résumé : La page Veille DevOps est mise à jour pour inclure les compétences en ingénierie des données, tout en conservant les informations sur les technologies DevOps traditionnelles.\n\nLes domaines de recrutement les plus demandés incluent :\n*   **Fournisseurs Cloud :** AWS, Azure et GCP. Azure est dominant dans les secteurs public et financier.\n*   **Conteneurs et orchestration :** Docker, Kubernetes.\n*   **Infrastructure en code :** Terraform, Ansible.\n*   **Intégration et livraison continues :** GitHub Actions, GitLab CI.\n*   **Observabilité :** Prometheus, Grafana.\n*   **Ingénierie des données :** Python, SQL, Scala, Apache Airflow, dbt, Snowflake, BigQuery, Azure Synapse, Kafka.\n\nLes certifications les plus courantes sont :\n*   AWS Certified Solutions Architect (Associate ou Professional).\n*   Microsoft Azure Administrator (AZ-104) et Azure Solutions Architect Expert (AZ-305).\n*   Certified Kubernetes Administrator (CKA).\n*   Databricks Certified Data Engineer Associate.\n*   SnowPro Core.\n*   Microsoft Fabric Data Engineer Associate (DP-700).\n\nUne certification ne remplace pas l'expérience ; lors de l'entrevue, un exemple de déploiement mené par le candidat est toujours demandé. Pour les rôles de données, l'accent est mis sur la qualité des données, les tests, et la gestion des données réglementées, surtout dans les secteurs de l'assurance et de la finance.\n\nSignaux d'alerte à surveiller :\n*   Un candidat listant dix outils sans pouvoir décrire un incident qu'il a réglé.\n*   Une expérience uniquement en laboratoire pour un poste nécessitant de la production.",
+"tool_calls": []
+},
+"8a7df962bed26ad902232a6adc4dbc71d566f69a": {
+"content": "Pour un poste de gestion, il est demandé un minimum de trois références, incluant une personne que le candidat a supervisée [[2026-01-26-procedure-references.md]].",
+"tool_calls": []
+},
+"8a8278031aafe92c9519c41452fad36983ad7c8f": {
+"content": "Marc-André Pelletier est responsable de la protection des renseignements personnels du cabinet [[2026-01-19-guide-loi25.md]]. Il est également responsable de réviser le formulaire de consentement pour la conservation des dossiers [[2026-04-20-note-direction-conservation.md]].",
+"tool_calls": []
+},
+"8a8d2f61b1d42674cf1b29d35b3301e8f16718eb": {
+"content": "L'information concernant la durée de l'exercice pratique pour la sécurité offensive n'est pas disponible dans les documents consultés [[Politique de recrutement]].",
+"tool_calls": []
+},
+"8af6d642ca74ea5268d02a8bbd3bc1f3f54a11ce": {
+"content": "INCONNU",
+"tool_calls": []
+},
+"8b23ed47f4f35a5646c0959a0c3d7f180eb760ce": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_document",
+"arguments": {
+"nom": "2026-03-09-fiche-client-sante-nord.md"
+}
+}
+}
+]
+},
+"8b7e0de4e794ff0fd6bb85065b22708f2e507eae": {
+"content": "Résumé : Manufacturier Boréal est un client fabricant de composantes en aluminium à Drummondville, nécessitant des spécialistes DevOps et des développeurs pour ses applications d'usine et ses capteurs connectés.\n\nLe client Manufacturier Boréal est un fabricant de composantes en aluminium situé à Drummondville, possédant deux usines et environ 350 employés.\n\nLes profils recherchés incluent :\n*   Spécialistes DevOps pour la modernisation du déploiement des applications d'usine.\n*   Développeurs et développeuses pour les capteurs connectés (Internet des objets).\n\nLes exigences spécifiques pour ce client sont :\n*   L'entrevue finale doit avoir lieu sur place, à l'usine principale, avec le directeur de la production.\n*   La maîtrise du français est obligatoire ; l'anglais n'est pas exigé.\n*   Une connaissance des réseaux industriels est considérée comme un atout, mais n'est pas une exigence.\n\nLes conditions commerciales sont standard du cabinet.",
+"tool_calls": []
+},
+"8cc692c2c69422ded490ee31835a3194d74db549": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_document",
+"arguments": {
+"nom": "2026-04-20-note-direction-conservation.md"
+}
+}
+}
+]
+},
+"8d51f598291bf6c7a2ffa3fd7816e24872176a95": {
+"content": "Pour présenter un candidat à Assurances Riveraine, il faut vérifier un minimum de deux références, et le client attend de recevoir les dossiers au plus tard 10 jours ouvrables après l'ouverture du mandat [[2026-02-23-fiche-client-assurances-riveraine.md]].",
+"tool_calls": []
+},
+"8d7607bbb3d4b50ece3ab385b894ed241eb70f38": {
+"content": "Les honoraires facturés au client sont de **20 % du salaire annuel de base** du candidat embauché, et ces honoraires sont facturés à l'embauche [[2026-01-12-politique-recrutement.md]].",
+"tool_calls": []
+},
+"8dcd8fcfcc4e47a11cd1ce928b02449ef624d26b": {
+"content": "L'utilisation d'un outil d'IA est limitée à la synthèse de CV et à la proposition de questions d'entrevue, et cet outil ne peut pas prendre de décision finale sur un candidat [[Utilisation de l'IA]].\n\nDe plus, la grille d'évaluation des candidats note les postulants sur 100 points selon trois axes : Compétence technique (50 points), Communication (25 points) et Adéquation au poste et au client (25 points) [[Grille d'évaluation des candidats]].",
+"tool_calls": []
+},
+"8f0bdd477d199d1f89a2ef0a0192103dcaf61bf1": {
+"content": "Je dois d'abord lister les documents disponibles pour pouvoir répondre à votre question [[lister_documents]].",
+"tool_calls": []
+},
+"8f45c9f63148ec00b2b81a4072c1452131f5b441": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_page",
+"arguments": {
+"titre": "Grille d'évaluation des candidats"
+}
+}
+}
+]
+},
+"8f66b8b6973e75e884f261534acded5815bef0b3": {
+"content": "Le recruteur appelle le candidat après 30 jours en poste lors de l'étape de l'offre et du suivi [[Politique de recrutement]].",
+"tool_calls": []
+},
+"910bfaab833b6667be50025e743941510735d0d6": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_document",
+"arguments": {
+"nom": "2026-03-02-fiche-client-manufacturier-boreal.md"
+}
+}
+}
+]
+},
+"91bc64b6ace383c939eb0c9b3e05e5acc77d0a80": {
+"content": "Les certifications Microsoft Azure mentionnées pour les postes en infonuagique sont l'**Azure Administrator (AZ-104)** et l'**Azure Solutions Architect Expert (AZ-305)** [[2026-02-09-veille-cloud-devops.md]].",
+"tool_calls": []
+},
+"91cc2bd6cafbafe91e0637bd9d55086e066b24ad": {
+"content": "Pour un poste en sécurité offensive, la certification requise est l'OSCP [[Veille Cybersécurité]]. De plus, pour ce type de poste, l'entrevue technique est remplacée par un exercice pratique de 2 heures, remis au candidat 48 heures avant l'entrevue [[Veille Cybersécurité], [Entrevue technique]].",
+"tool_calls": []
+},
+"920b91d66383df613265fd5897714c057b8de97f": {
+"content": "Je ne trouve aucune information concernant un seuil de points pour présenter un candidat à un client dans les documents disponibles [[index]].",
+"tool_calls": []
+},
+"9213fade1249fc4ec70c9e17dc29bb6203647a92": {
+"content": "Le wiki mentionne que les candidats disposent de droits concernant l'accès et la correction de leur dossier, et que le cabinet doit répondre dans un délai de 30 jours [[Droits des candidats]]. De plus, les données recueillies doivent être strictement limitées aux informations nécessaires à l'évaluation des compétences [[Minimisation des données]].",
+"tool_calls": []
+},
+"93352dc13d9fedd34052882f2dd9868593846439": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_page",
+"arguments": {
+"titre": "Réseau Cliniques Santé-Nord"
+}
+}
+}
+]
+},
+"967a27f5f458aa4ac51fa391d21be136c8fdb17e": {
+"content": "Santé-Nord accepte le télétravail à 2 jours par semaine, selon un courriel envoyé le 4 mai 2026 [[2026-05-04-courriel-sante-nord.md]].",
+"tool_calls": []
+},
+"968b8c44c04e3cf5cd0c9e967aa7f6595516d1e9": {
+"content": "Résumé : Cette page récapitule les compétences, certifications et signaux d'alerte observés dans le domaine DevOps lors des recrutements.\n\nLes domaines de recrutement les plus demandés incluent :\n*   **Fournisseurs Cloud :** AWS, Azure et GCP. Azure est dominant dans les secteurs public et financier.\n*   **Conteneurs et orchestration :** Docker, Kubernetes.\n*   **Infrastructure en code :** Terraform, Ansible.\n*   **Intégration et livraison continues :** GitHub Actions, GitLab CI.\n*   **Observabilité :** Prometheus, Grafana.\n\nLes certifications les plus courantes sont :\n*   AWS Certified Solutions Architect (Associate ou Professional).\n*   Microsoft Azure Administrator (AZ-104) et Azure Solutions Architect Expert (AZ-305).\n*   Certified Kubernetes Administrator (CKA).\n\nUne certification ne remplace pas l'expérience ; lors de l'entrevue, un exemple de déploiement mené par le candidat est toujours demandé.\n\nSignaux d'alerte à surveiller :\n*   Un candidat listant dix outils sans pouvoir décrire un incident qu'il a réglé.\n*   Une expérience uniquement en laboratoire pour un poste nécessitant de la production.",
+"tool_calls": []
+},
+"96c9d71989964be3ef25c286aab506ea504262c8": {
+"content": "Pour un poste en sécurité offensive, la certification recherchée est l'OSCP [[2026-02-16-veille-cybersecurite.md]]. De plus, pour un poste en sécurité offensive, la mise en situation de l'entrevue technique est remplacée par un exercice pratique de 2 heures, fait à la maison [[2026-02-16-veille-cybersecurite.md]].",
+"tool_calls": []
+},
+"9705a7f771a89dfcdac8f72e47af8d70e03a6685": {
+"content": "Le dossier d'un candidat non retenu est conservé pendant **12 mois** après la fin du mandat, si le candidat consent à cette durée dans son formulaire de consentement révisé par Marc-André Pelletier [[Conservation des dossiers]]. Si le candidat refuse cette durée, la règle de conservation est de 6 mois [[Conservation des dossiers]].",
+"tool_calls": []
+},
+"9721e55b903f8748f61f98110f0cff981840814b": {
+"content": "```json\n{\n  \"pages\": [\n    {\n      \"titre\": \"Manufacturier Boréal\",\n      \"action\": \"creer\"\n    }\n  ]\n}\n```",
+"tool_calls": []
+},
+"98d6fccc4034729902be6185f5ee1ec1adcf624c": {
+"content": "Je ne trouve aucune information concernant l'enregistrement d'une entrevue technique dans les pages disponibles [[index]].",
+"tool_calls": []
+},
+"9a7004aa080ebd0a578b96e0564200ae546eb969": {
+"content": "Les honoraires standard du cabinet sont de **20 % du salaire annuel de base** du candidat embauché, et ils sont facturés à l'embauche [[Politique de recrutement]].",
+"tool_calls": []
+},
+"9bdfa6fda7af7f3cd71f73b9d7681aa5e9bb6f11": {
+"content": "Les pages de veille DevOps mentionnent que les fournisseurs Cloud les plus demandés incluent AWS, Azure et GCP [[Veille DevOps]]. Cependant, elles ne spécifient pas de certification Google Cloud particulière requise pour les postes en infonuagique.",
+"tool_calls": []
+},
+"9cf1f3981cc266549f04ab9525ade47a9e9f744f": {
+"content": "Pour un poste en sécurité offensive, la certification requise est l'OSCP [[Veille Cybersécurité]]. De plus, pour un poste en sécurité offensive, l'entrevue technique est remplacée par un exercice pratique de 2 heures [[Veille Cybersécurité]].",
+"tool_calls": []
+},
+"9f79955fb816d08d82dd1eb623248024fbe4ef3b": {
+"content": "Le candidat doit signer un engagement de confidentialité du client avant l'entrevue finale [[2026-03-09-fiche-client-sante-nord.md]]. Concernant les certifications de gouvernance, le CISSP ou le CISM sont mentionnés comme pertinents pour cette famille de postes [[2026-02-16-veille-cybersecurite.md]].",
+"tool_calls": []
+},
+"9f8414cd1e436df9f9361f6b3352a246d90ae54d": {
+"content": "INCONNU",
+"tool_calls": []
+},
+"a0e0b9ea8fcb2334602bda84ad2f8f9a5942c699": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_document",
+"arguments": {
+"nom": "2026-01-12-politique-recrutement.md"
+}
+}
+}
+]
+},
+"a14cbb834b1a0894bb6d4bd65aaadd512127a3f1": {
+"content": "Le cabinet répond dans un délai de **30 jours** lorsqu'un candidat demande à consulter son dossier ou à le faire corriger [[2026-01-19-guide-loi25.md]]. Si le candidat retire son consentement, son dossier est détruit dans les 10 jours ouvrables [[2026-01-19-guide-loi25.md]].",
+"tool_calls": []
+},
+"a4fa70c5b4fc419f61f2dc27493dd21f23923b5b": {
+"content": "INCONNU",
+"tool_calls": []
+},
+"a5747c9f54d2d41bf74337bb10c6c136b2501d41": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_document",
+"arguments": {
+"nom": "2026-02-09-veille-cloud-devops.md"
+}
+}
+}
+]
+},
+"a6848eeb0402cd4516ebaffc8263f3c201254ed3": {
+"content": "Résumé : L'entrevue technique est une étape obligatoire de 60 minutes en visioconférence (sauf demande client) qui suit la présélection et précède l'évaluation par la [[Grille d'évaluation des candidats]].\n\nL'entrevue technique dure **60 minutes**. Elle se déroule en visioconférence, sauf si le client demande une entrevue sur place.\n\nLe déroulement comprend cinq temps :\n1. **Accueil (5 min)** : Présentation du poste et du client, si le client accepte d'être nommé.\n2. **Parcours (15 min)** : Le candidat décrit deux projets récents et son rôle réel dans chacun.\n3. **Mise en situation (25 min)** : Un exercice propre au domaine du poste.\n4. **Questions du candidat (10 min)**.\n5. **Suite (5 min)** : Explication des prochaines étapes et du délai de réponse.\n\nDes exemples de mises en situation incluent :\n* **Infonuagique et DevOps** : concevoir le déploiement d'une application web sur deux régions, avec reprise après sinistre.\n* **Données** : proposer un pipeline qui charge les ventes quotidiennes de 40 magasins et détecte les fichiers manquants.\n* **Cybersécurité** : analyser un journal d'authentification et repérer une tentative d'intrusion.\n\nL'entrevue n'est pas enregistrée par défaut.",
+"tool_calls": []
+},
+"a6cb6e1411eb2f0f979979a88cf4ecaa65b9cfcf": {
+"content": "INCONNU",
+"tool_calls": []
+},
+"a790acc08fe1323c67fe577cf8b9889a40dc8d04": {
+"content": "INCONNU",
+"tool_calls": []
+},
+"a89a257235c2ff970ad66b54bdacb2f9e410cbc1": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_page",
+"arguments": {
+"titre": "Réseau Cliniques Santé-Nord"
+}
+}
+}
+]
+},
+"a970cc98bd7036208c1b77b3fb6b7d3697c99d4e": {
+"content": "Pour un poste de gestion, une troisième référence est demandée, qui doit être une personne que le candidat a supervisée [[Vérification des références]].",
+"tool_calls": []
+},
+"a9f2225244c73667f7ab9365de145996c09f972a": {
+"content": "Un candidat est éliminé si sa note en compétence technique est inférieure à 30 points sur 50, même si son total est supérieur à ce seuil [[Grille d'évaluation des candidats]]. De plus, un candidat doit obtenir au moins 70 points pour être présenté au client [[Grille d'évaluation des candidats]].",
+"tool_calls": []
+},
+"a9fa82a29e0fbf54215add3ab61725904df3de31": {
+"content": "INCONNU",
+"tool_calls": []
+},
+"aa08012655e1d12de5888d88bd4b3e4053ac0fe4": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_page",
+"arguments": {
+"titre": "Politique de recrutement"
+}
+}
+}
+]
+},
+"abadaf93b75bb4516329ef2ea494faafd12fc5a9": {
+"content": "```json\n{\n  \"pages\": [\n    {\n      \"titre\": \"Conservation des dossiers\",\n      \"action\": \"creer\"\n    },\n    {\n      \"titre\": \"Consentement\",\n      \"action\": \"creer\"\n    },\n    {\n      \"titre\": \"Minimisation des données\",\n      \"action\": \"creer\"\n    },\n    {\n      \"titre\": \"Droits des candidats\",\n      \"action\": \"creer\"\n    }\n  ]\n}\n```",
+"tool_calls": []
+},
+"ac3fad5f2a8c6282e18d88c9b021487cca51f88e": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_document",
+"arguments": {
+"nom": "2026-03-09-fiche-client-sante-nord.md"
+}
+}
+}
+]
+},
+"ac467e4181d7bf7254b4af57c8c48669f6cca505": {
+"content": "L'information concernant l'enregistrement des entrevues n'est pas précisée dans le détail du déroulement de l'entrevue technique, mais il existe une page dédiée à l'enregistrement des entrevues [[Entrevue technique]].",
+"tool_calls": []
+},
+"aca092002ce240bad8b03405d46f22be903ec531": {
+"content": "Je ne trouve pas d'information sur le nombre minimum de références à vérifier pour un poste non-gestion dans les documents disponibles.",
+"tool_calls": []
+},
+"adf69b1f595fe68cc3eeb872cda380918ae8f714": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_document",
+"arguments": {
+"nom": "2026-02-23-fiche-client-assurances-riveraine.md"
+}
+}
+}
+]
+},
+"ae1112002a066620f17465264c5648f9dc2f716d": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_document",
+"arguments": {
+"nom": "2026-02-26-procedure-references.md"
+}
+}
+}
+]
+},
+"aedfd74e2084d4cd0505d214ba7e780ac5cb3621": {
+"content": "```json\n{\n  \"pages\": [\n    {\n      \"titre\": \"Conservation des dossiers\",\n      \"action\": \"modifier\"\n    }\n  ]\n}\n```",
+"tool_calls": []
+},
+"af1c214770cf85c68c15f036031ccc46e55ec1cc": {
+"content": "Je ne trouve aucune information concernant un seuil de points pour présenter un candidat à un client dans les documents disponibles [[INCONNU]].",
+"tool_calls": []
+},
+"b02a4913f0f25e7ae1ee7f06013172e08730ee13": {
+"content": "",
+"tool_calls": []
+},
+"b0b5e81fab4290bbf35247772fc5e3d8e5c560a5": {
+"content": "Selon le wiki, il n'y a aucune mention de garantie de remplacement spécifique pour Manufacturier Boréal ; les conditions commerciales sont indiquées comme étant standard du cabinet [[Manufacturier Boréal]].",
+"tool_calls": []
+},
+"b2630a1f9d13841fd9870c2733c8d3d4fc584ee9": {
+"content": "```json\n{\n  \"pages\": [\n    {\n      \"titre\": \"Veille DevOps\",\n      \"action\": \"creer\"\n    }\n  ]\n}\n```",
+"tool_calls": []
+},
+"b26cbda2b0e31cc1a15f8423b1ff1a0155419f9d": {
+"content": "INCONNU",
+"tool_calls": []
+},
+"b2b67e62085ac4261d6675da349e3320641d42cd": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_document",
+"arguments": {
+"nom": "2026-03-02-fiche-client-manufacturier-boreal.md"
+}
+}
+}
+]
+},
+"b2c7e8c83f3197f0e2dd3ae36cdbd8fae0cfdf03": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_document",
+"arguments": {
+"nom": "2026-01-12-politique-recrutement.md"
+}
+}
+}
+]
+},
+"b351293307072181d1d466099719e776d352eade": {
+"content": "L'enregistrement des entrevues techniques nécessite le consentement écrit du candidat, et cet enregistrement doit être détruit à la fin du mandat [[Enregistrement des entrevues]].",
+"tool_calls": []
+},
+"b433c965b5cdf8f03b40269723d2414636edd8ca": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_page",
+"arguments": {
+"titre": "Droits des candidats"
+}
+}
+}
+]
+},
+"b46a3740c552bfb772dbaa8a36d041e8179f0d77": {
+"content": "INCONNU",
+"tool_calls": []
+},
+"b56a2965c67861f9071856aabb7807031ce1aa6e": {
+"content": "Non, un outil d'IA ne peut pas écarter un candidat, et toute décision concernant un candidat doit être prise par un recruteur [[Utilisation de l'IA]]. De plus, un candidat avec moins de 70 points ne doit pas être présenté au client, quelle que soit la raison [[Grille d'évaluation des candidats]].",
+"tool_calls": []
+},
+"b5bc7774d68b8431a4bfba15f3c0af8583fd1260": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher",
+"arguments": {
+"mots": "logiciel de suivi des candidats"
+}
+}
+}
+]
+},
+"b6c1903578e1313d4c05b075913130ca602bb18e": {
+"content": "",
+"tool_calls": []
+},
+"b8208b15cb1f0c1ee184f74b8ad9149a8a1ec88b": {
+"content": "Pour un poste en sécurité offensive, la certification recherchée est l'OSCP [[Veille Cybersécurité]]. De plus, l'entrevue technique pour ce type de poste est remplacée par un exercice pratique de 2 heures [[Veille Cybersécurité]].",
+"tool_calls": []
+},
+"ba11748bb47f8ce53de8bb1d008a9e455e374601": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_document",
+"arguments": {
+"nom": "2026-02-23-fiche-client-assurances-riveraine.md"
+}
+}
+}
+]
+},
+"ba244568625ad231af9c8a9f3af7431096823b65": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher",
+"arguments": {
+"mots": "Microsoft Azure certifications"
+}
+}
+}
+]
+},
+"ba2e572f7afe70841ffe015c05679912abbb51ca": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_page",
+"arguments": {
+"titre": "Droits des candidats"
+}
+}
+}
+]
+},
+"baa1740da21bdbc7c981509219ab8d79ad4abd70": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_document",
+"arguments": {
+"nom": "2026-02-23-fiche-client-assurances-riveraine.md"
+}
+}
+}
+]
+},
+"baee81b0c2feb57bc916f9c91825abf61cc46b72": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher",
+"arguments": {
+"mots": "logiciel de suivi des candidats"
+}
+}
+}
+]
+},
+"bc57ee050e9b768fe52cc6de3b343c39a2908bfa": {
+"content": "La garantie de remplacement pour Assurances Riveraine est de 120 jours, conformément à l'Entente de volume 2026 [[Assurances Riveraine]].",
+"tool_calls": []
+},
+"bd57d8827e825db2bab48242e60bf040eb49d793": {
+"content": "Pour un poste en sécurité offensive, l'exercice pratique dure 2 heures [[Veille Cybersécurité]]. De plus, ce candidat reçoit cet exercice 48 heures avant son entrevue technique [[Veille Cybersécurité]].",
+"tool_calls": []
+},
+"bdb4f380b862e6683c8331475dc4679748718476": {
+"content": "Le Réseau Cliniques Santé-Nord limite le télétravail à deux jours par semaine [[Réseau Cliniques Santé-Nord]].",
+"tool_calls": []
+},
+"bf1764f5a9af6bf1ed4f33891209f7b1e5de9811": {
+"content": "Pour un poste en sécurité offensive, l'exercice pratique est de 2 heures et le candidat le reçoit 48 heures avant son entrevue [[Veille Cybersécurité]]. De plus, l'entrevue technique est remplacée par cet exercice pratique de 2 heures pour un poste en sécurité offensive [[Entrevue technique]].",
+"tool_calls": []
+},
+"bf7ec4f053fce43b044c8299fd05c5aecc351826": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_document",
+"arguments": {
+"nom": "2026-02-16-veille-cybersecurite.md"
+}
+}
+}
+]
+},
+"c029a7183c187c81972161819a500be1b5a44f7c": {
+"content": "INCONNU",
+"tool_calls": []
+},
+"c03b4a04659a13a66e4e54df6210949ab23b57b2": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_page",
+"arguments": {
+"titre": "Assurances Riveraine"
+}
+}
+}
+]
+},
+"c174fb79fae1aa24602ad3db1ea9cd44178a515f": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_document",
+"arguments": {
+"nom": "2026-02-23-fiche-client-assurances-riveraine.md"
+}
+}
+}
+]
+},
+"c23252d2d29d8ead18798f900aa3e4495d586a36": {
+"content": "Les certifications Microsoft Azure mentionnées sont l'Azure Administrator (AZ-104) et l'Azure Solutions Architect Expert (AZ-305) [[Veille DevOps]]. De plus, pour Assurances Riveraine, les candidats en infonuagique doivent connaître les régions canadiennes d'Azure [[Assurances Riveraine]].",
+"tool_calls": []
+},
+"c25d899f3b449f9d22f1c648a4ad5ea4eb5ce741": {
+"content": "L'entrevue technique n'est pas enregistrée par défaut [[2026-02-02-entrevue-technique.md]].",
+"tool_calls": []
+},
+"c2ed6c3be6f1215c57487da289a8c5acf128b5f9": {
+"content": "L'information concernant la commission versée aux recruteurs sur un placement n'est pas disponible dans le wiki [[Index du wiki]].",
+"tool_calls": []
+},
+"c2f550f5d9e869b93c22455e338db816c35ed48a": {
+"content": "L'entrevue finale chez Manufacturier Boréal doit avoir lieu sur place, à l'usine principale, avec le directeur de la production [[Manufacturier Boréal]].",
+"tool_calls": []
+},
+"c32d7f3a3c30fe65f4bb918024ec729248a9edbf": {
+"content": "Résumé : La conservation des dossiers des candidats non retenus est désormais de 12 mois après la fin du mandat, sous réserve du consentement du candidat, et les dossiers des personnes embauchées conservent leur durée initiale.\n\nLe dossier d'un candidat non retenu est conservé **12 mois** après la fin du mandat, si le candidat accepte cette durée dans son formulaire de consentement révisé par Marc-André Pelletier. Si le candidat refuse cette durée, la règle de conservation reste de 6 mois.\n\nLe dossier d'une personne embauchée est conservé pendant la durée de la garantie de remplacement, puis réduit au CV et au contrat.\n\nPour toute question relative aux droits du candidat, voir [[Droits des candidats]].",
+"tool_calls": []
+},
+"c365438a67f0118167c26082719e3b6110a1009c": {
+"content": "L'entrevue technique dure **60 minutes** [[2026-02-02-entrevue-technique.md]]. Elle se déroule en visioconférence, sauf si le client demande une entrevue sur place [[2026-02-02-entrevue-technique.md]].",
+"tool_calls": []
+},
+"c3c276479e258d5c6173f09e87ff84c1614c0ee7": {
+"content": "Résumé : Le Réseau Cliniques Santé-Nord est un groupe de 12 cliniques médicales privées au Saguenay–Lac-Saint-Jean qui exige des mesures de sécurité et de confidentialité élevées pour tous les mandats.\n\nLe Réseau Cliniques Santé-Nord est un réseau de 12 cliniques médicales privées situées au Saguenay–Lac-Saint-Jean.\n\n**Profils recherchés :**\n*   Analyste en cybersécurité, avec un profil gouvernance, pour établir un programme de conformité.\n*   Administrateur ou administratrice de systèmes pour les 12 cliniques.\n\n**Exigences spécifiques :**\n*   Chaque candidat présenté doit signer un **engagement de confidentialité** du client avant l'entrevue finale.\n*   Le client autorise le télétravail pour 3 jours par semaine.\n\nCe client traite des renseignements de santé, ce qui rend la sécurité et la confidentialité centrales dans tous les mandats. Les profils recherchés peuvent nécessiter des informations relatives à [[Veille Cybersécurité]] et [[Politique de recrutement]].",
+"tool_calls": []
+},
+"c4ac673323c214417c3a4a0842d443e1c1dd3be1": {
+"content": "Il est obligatoire d'avoir au minimum deux références pour la vérification des références [[Vérification des références]]. Au moins une de ces deux références doit provenir d'un supérieur immédiat des trois dernières années [[Vérification des références]].",
+"tool_calls": []
+},
+"c52d9cc039daad4f742f0f85c73977b79e05e72a": {
+"content": "Je n'ai trouvé aucune information concernant le nombre d'employés de Recrutement Élite dans les pages du wiki disponibles [[index]].",
+"tool_calls": []
+},
+"c65ac794c29b4ad8bd46b7c095a95be26042b3ad": {
+"content": "Je ne trouve aucune information concernant l'utilisation d'une IA par un recruteur pour écarter des candidats sous le seuil de la grille dans les documents disponibles [[index]].",
+"tool_calls": []
+},
+"c6b51e07aaeda601e2824a08031bf6c95447f9fa": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_page",
+"arguments": {
+"titre": "index"
+}
+}
+}
+]
+},
+"c72ec660e267f895f9fe87b92c67d42f8db0374d": {
+"content": "Je ne trouve pas d'informations concernant le nombre de références à vérifier ou le délai attendu par Assurances Riveraine pour une ingénieure de données [[index]].",
+"tool_calls": []
+},
+"c84d5f2384318aadb00ad0e14c6b33155601907a": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_document",
+"arguments": {
+"nom": "2026-01-19-guide-loi25.md"
+}
+}
+}
+]
+},
+"c949a61ae506069d8f47ec45a4cb76e1226b444a": {
+"content": "Pour Assurances Riveraine, la vérification des références est obligatoire pour tous les postes [[Assurances Riveraine]]. Vous devez obtenir au minimum deux références, dont une provenant d'un supérieur immédiat des trois dernières années [[Vérification des références]]. Le cabinet doit recevoir les dossiers des candidats au plus tard 10 jours ouvrables après l'ouverture du mandat [[Assurances Riveraine]].",
+"tool_calls": []
+},
+"c9a293c74d3852571a43ee5f76a9879a25973a19": {
+"content": "Pour un poste de gestion, il est demandé un minimum de deux références, et une troisième référence est requise : une personne que le candidat a supervisée [[Vérification des références]].",
+"tool_calls": []
+},
+"caa6ab529a60d8723d3c7e1733cae3561d21ced6": {
+"content": "L'entrevue finale chez Manufacturier Boréal doit avoir lieu sur place, à l'usine principale, avec le directeur de la production [[Manufacturier Boréal]].",
+"tool_calls": []
+},
+"caade16f9c5231a4c6700b1d5e6a1003bb71b74c": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_page",
+"arguments": {
+"titre": "Manufacturier Boréal"
+}
+}
+}
+]
+},
+"cbf0d2e2371064a151f305aaa6356175edb52309": {
+"content": "Les certifications Microsoft Azure mentionnées pour les postes en infonuagique sont l'Azure Administrator (AZ-104) et l'Azure Solutions Architect Expert (AZ-305) [[Veille DevOps]].",
+"tool_calls": []
+},
+"cc3f3174fde3d38b51bbd5525da55691ad62daf4": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_document",
+"arguments": {
+"nom": "2026-01-12-politique-recrutement.md"
+}
+}
+}
+]
+},
+"ccab53aa8417c0ea6cebf8cb75cac175a219a149": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher",
+"arguments": {
+"mots": "Google Cloud certification"
+}
+}
+}
+]
+},
+"ccc7a484a2cae681fa16c1f3f4da8128cabdda1d": {
+"content": "Le client Santé-Nord accepte le télétravail 3 jours par semaine [[2026-03-09-fiche-client-sante-nord.md]].",
+"tool_calls": []
+},
+"ccedddc430a71d3f922d623de72676eeb0bd6922": {
+"content": "L'entrevue finale chez Manufacturier Boréal doit avoir lieu sur place, à l'usine principale, avec le directeur de la production [[Manufacturier Boréal]].",
+"tool_calls": []
+},
+"cd3cc59b2e048fb30db7c111be45c8ab4c0519fe": {
+"content": "Je ne trouve aucune information concernant le délai de réponse du cabinet lorsqu'un candidat demande à consulter son dossier [[index]].",
+"tool_calls": []
+},
+"cd4f0861bcbf69ee5ce33285642d78734ae4d280": {
+"content": "L'information concernant le salaire offert pour le poste DevOps chez Manufacturier Boréal n'est pas disponible dans les documents fournis [[Manufacturier Boréal], [Politique de recrutement]]. Cependant, les conditions commerciales pour ce client sont standard du cabinet [[Manufacturier Boréal]].",
+"tool_calls": []
+},
+"cdd669e8df423fe4be9c7ce01b2836b7460557f6": {
+"content": "```json\n{\n  \"pages\": [\n    \"Politique de recrutement\",\n    \"Grille d'évaluation des candidats\",\n    \"Droits des candidats\"\n  ]\n}\n```",
+"tool_calls": []
+},
+"cdfd0ba1524d0c93520326e1065c073a2519a43d": {
+"content": "Les clients qui exigent une vérification des antécédents judiciaires sont Réseau Cliniques Santé-Nord et Assurances Riveraine inc. [[2026-05-04-courriel-sante-nord.md], [2026-02-23-fiche-client-assurances-riveraine.md]]. Pour Assurances Riveraine inc., cette vérification est obligatoire pour tous les postes et doit être faite par le client après l'acceptation de l'offre [[2026-02-23-fiche-client-assurances-riveraine.md]].",
+"tool_calls": []
+},
+"cedcbc0ff659036018ec94ac67c436ea97ade59b": {
+"content": "INCONNU",
+"tool_calls": []
+},
+"d08f2533646c25d6bf8bb058a756099205f6b23b": {
+"content": "Je ne trouve aucune information concernant le nombre d'employés de Recrutement Élite dans les pages disponibles [[index]].",
+"tool_calls": []
+},
+"d0c69a857009b8da23ff43006e2fb40abcfed71d": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_document",
+"arguments": {
+"nom": "2026-03-02-fiche-client-manufacturier-boreal.md"
+}
+}
+}
+]
+},
+"d2e23e00b1f662d604026ae4f3ddea3ab2f0cc52": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_page",
+"arguments": {
+"titre": "Politique de recrutement"
+}
+}
+}
+]
+},
+"d30f694390d1d52f25752f9dc50370b95f1f6740": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_document",
+"arguments": {
+"nom": "2026-01-12-grille-evaluation.md"
+}
+}
+}
+]
+},
+"d35cbad7896c400f6c25fbe532c5df264204ebf5": {
+"content": "L'exercice pratique pour un poste en sécurité offensive dure 2 heures et est effectué à domicile, le candidat le recevant 48 heures avant son entrevue [[2026-02-16-veille-cybersecurite.md]].",
+"tool_calls": []
+},
+"d3c30410d62986013dafd889a28565ea57963fda": {
+"content": "Je ne trouve pas d'information sur la personne responsable de la protection des renseignements personnels dans les pages disponibles [[index]].",
+"tool_calls": []
+},
+"d479c7e430ee16f85dfc5edde83fcbd4e335b898": {
+"content": "INCONNU",
+"tool_calls": []
+},
+"d493f2b9322a54723c0bb0ea21884f96850f8ad3": {
+"content": "Pour un poste qui n'est pas un poste de gestion, il est nécessaire de vérifier au minimum deux références [[Vérification des références]]. Parmi ces deux, au moins une doit provenir d'un supérieur immédiat des trois dernières années [[Vérification des références]].",
+"tool_calls": []
+},
+"d4c6419e529281d4180d162486ce03f1261f0b70": {
+"content": "Résumé : Cette page détaille les profils, les certifications et les spécificités du processus de recrutement dans le domaine de la cybersécurité.\n\nLes mandats en cybersécurité prennent en moyenne deux fois plus de temps à combler que les autres.\n\nLes familles de postes en cybersécurité incluent :\n*   **Sécurité défensive :** analyste en centre des opérations de sécurité (SOC), réponse aux incidents, gestion d'un SIEM.\n*   **Sécurité offensive :** tests d'intrusion, équipe rouge.\n*   **Gouvernance :** gestion des risques, conformité, ISO 27001, Loi 25.\n\nLes certifications requises par famille sont :\n*   **Défensive :** CompTIA Security+ (junior), GIAC GCIH (réponse aux incidents).\n*   **Offensive :** OSCP.\n*   **Gouvernance et gestion :** CISSP, CISM.\n\nPour un poste en sécurité offensive, l'entrevue technique est remplacée par un exercice pratique de 2 heures, remis au candidat 48 heures avant l'entrevue.",
+"tool_calls": []
+},
+"d507952fd271a9f81ff35a4fd86da7dc29cf505e": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_document",
+"arguments": {
+"nom": "2026-01-12-politique-recrutement.md"
+}
+}
+}
+]
+},
+"d582da1d3ca4d7439c0d3716b38688a95dd3c580": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher",
+"arguments": {
+"mots": "délai consultation dossier candidat"
+}
+}
+}
+]
+},
+"d5d0e9ec35dc2ba75e8f5b77370fcf45960e140c": {
+"content": "Les honoraires facturés au client sont de **20 % du salaire annuel de base** du candidat embauché, et ils sont facturés à l'embauche [[Politique de recrutement]].",
+"tool_calls": []
+},
+"d5daae54ff3696febd83d5a521d78d12c03d1097": {
+"content": "```json\n{\n  \"pages\": [\n    {\n      \"titre\": \"Réseau Cliniques Santé-Nord\",\n      \"action\": \"creer\"\n    }\n  ]\n}\n```",
+"tool_calls": []
+},
+"d6546fdd32cfb4bd9f3fee7c069ca4ad5eb7bdfa": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_page",
+"arguments": {
+"titre": "Veille Cybersécurité"
+}
+}
+}
+]
+},
+"d66639cff62fa1c2d8217198e733a3c9f4d6506c": {
+"content": "```json\n{\n  \"pages\": [\n    {\n      \"titre\": \"Veille DevOps\",\n      \"action\": \"modifier\"\n    }\n  ]\n}\n```",
+"tool_calls": []
+},
+"d77d4b04150611880997efcb19643b887e1563ed": {
+"content": "La politique de recrutement indique que les honoraires sont de **20 % du salaire annuel de base** du candidat embauché, facturés à l'embauche [[2026-01-12-politique-recrutement.md]].",
+"tool_calls": []
+},
+"d860ea148c64d0ad13df9696a829a70bbb19c625": {
+"content": "Le document \"Politique de recrutement – Recrutement Élite inc.\" décrit les étapes d'un mandat de recrutement, mais il ne mentionne pas de logiciel de suivi des candidats spécifique.",
+"tool_calls": []
+},
+"d8a7d8c1ccd7ea4d1b72a104f080ab477cf5ecae": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher",
+"arguments": {
+"mots": "commission"
+}
+}
+}
+]
+},
+"da6ebc04e10e313be2cee8a380f726b875606dd8": {
+"content": "Les conditions commerciales standard du cabinet s'appliquent à Manufacturier Boréal [[2026-03-02-fiche-client-manufacturier-boreal.md]]. Cependant, il est mentionné que pour Assurances Riveraine, la garantie de remplacement est de 120 jours en raison d'une entente de volume [[2026-03-16-compte-rendu-reunion.md]].",
+"tool_calls": []
+},
+"dabd16ed8b5a0f89897dcd000dc905a576778725": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_document",
+"arguments": {
+"nom": "2026-03-09-fiche-client-sante-nord.md"
+}
+}
+}
+]
+},
+"db801c9854eba691a1cf218713d9f8804b313d60": {
+"content": "Je vous prie de m'excuser. J'ai lu la page index, qui liste toutes les pages du wiki, et j'ai utilisé cette information pour répondre à votre question précédente.\n\nSi vous souhaitez que je lise des pages spécifiques, veuillez me donner les titres des pages que vous considérez comme \"utiles\". Sinon, je peux continuer à utiliser les outils pour répondre à vos questions en me basant sur le contenu du wiki.",
+"tool_calls": []
+},
+"dc9fd47e0162c7526fe471665b388b1f4dae727e": {
+"content": "Je ne trouve aucune information concernant une note de compétence technique spécifique qui entraînerait l'élimination d'un candidat, quel que soit son total [[Processus de recrutement]].",
+"tool_calls": []
+},
+"dcaa01e4dc7fd8a4cf8cae1e34da05d6b867c533": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_page",
+"arguments": {
+"titre": "Manufacturier Boréal"
+}
+}
+}
+]
+},
+"dd31d76db8d93959e53e96583992182dae892854": {
+"content": "Les honoraires standard du cabinet sont de 20 % du salaire annuel de base du candidat embauché, et ils sont facturés à l'embauche [[Politique de recrutement]].",
+"tool_calls": []
+},
+"dee13480de03c41a5cc285f19e11c5c22a8a7abc": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_document",
+"arguments": {
+"nom": "2026-05-04-courriel-sante-nord.md"
+}
+}
+}
+]
+},
+"dff3e9bb74a28c75762b8f554a22c83bbce29109": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_document",
+"arguments": {
+"nom": "2026-01-26-procedure-references.md"
+}
+}
+}
+]
+},
+"e03452d7a36e0ebd7877677f6c0527273042f3cb": {
+"content": "La politique de recrutement décrit les étapes d'un mandat, mais elle ne mentionne pas spécifiquement la politique de télétravail des recruteurs [[2026-01-12-politique-recrutement.md]].",
+"tool_calls": []
+},
+"e083bf3d8c9706f0b9f7c54c2b603d1165fba39f": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_document",
+"arguments": {
+"nom": "2026-01-19-guide-loi25.md"
+}
+}
+}
+]
+},
+"e0b1a3aeddb0afaac6be7482515ee6589bdadeb9": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_document",
+"arguments": {
+"nom": "2026-01-12-politique-recrutement.md"
+}
+}
+}
+]
+},
+"e137015ef38edef79195418f0ab94f7e4ab110d7": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher",
+"arguments": {
+"mots": "IA écarter candidats grille"
+}
+}
+}
+]
+},
+"e16640dca411804e5239f34616dc47abdb205bc3": {
+"content": "INCONNU",
+"tool_calls": []
+},
+"e3d7c6085270a79fcaf1a91b43265f2fe211c6cd": {
+"content": "Résumé : Cette politique décrit les étapes standard d'un mandat de recrutement en TI, des engagements envers les candidats et les conditions commerciales.\n\nLes étapes d'un mandat de recrutement en technologies de l'information sont :\n1. **Ouverture du mandat** : Le recruteur rédige une fiche de mandat dans les 2 jours ouvrables après la rencontre avec le client pour définir le poste, le salaire offert et les critères éliminatoires.\n2. **Recherche et présélection** : Recherche dans la banque de CV du cabinet, puis sur les réseaux professionnels. Un premier appel de 15 minutes confirme l'intérêt et la disponibilité du candidat.\n3. **Entrevue technique** : Menée par un recruteur TI selon le déroulement standard [[Entrevue technique]].\n4. **Évaluation** : Chaque candidat est noté avec la [[Grille d'évaluation des candidats]].\n5. **Vérification des références** : Obligatoire avant toute présentation au client.\n6. **Présentation au client** : Le recruteur envoie un dossier résumé comprenant le CV, la note sur la grille, et la synthèse des références.\n7. **Offre et suivi** : Le recruteur accompagne la négociation et appelle le candidat après 30 jours en poste.\n\n**Engagements envers les candidats**\n* Tout candidat rencontré reçoit une réponse, positive ou non, dans les **5 jours ouvrables** suivant son entrevue.\n* Le cabinet ne présente jamais un candidat à un client sans son accord explicite pour ce poste précis.\n* Le cabinet ne demande jamais de frais à un candidat.\n\n**Conditions commerciales standard**\n* **Honoraires** : **20 % du salaire annuel de base** du candidat embauché, facturés à l'embauche.\n* **Garantie de remplacement** : Si la personne embauchée quitte ou est congédiée dans les **90 jours**, le cabinet trouve un remplaçant sans frais.\n* Les conditions particulières d'un client ont priorité sur ces conditions standard.",
+"tool_calls": []
+},
+"e47a0454bba79515edd1df93ff661f61923b3dca": {
+"content": "```json\n{\n  \"pages\": [\n    {\n      \"titre\": \"Assurances Riveraine\",\n      \"action\": \"creer\"\n    },\n    {\n      \"titre\": \"Veille Cybersécurité\",\n      \"action\": \"modifier\"\n    }\n  ]\n}\n```",
+"tool_calls": []
+},
+"e554aed35d6ee8ca648c7f55e31cfca1393b1009": {
+"content": "Pour un poste de gestion, il est requis de fournir trois références : deux références au minimum, dont au moins une provenant d'un supérieur immédiat des trois dernières années, et une troisième référence qui doit être une personne que le candidat a supervisée [[Vérification des références]].",
+"tool_calls": []
+},
+"e5e4166ed8ad2b3beeb84ffe8690b675ce2b59a1": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_page",
+"arguments": {
+"titre": "index"
+}
+}
+}
+]
+},
+"e603b6ae20fc78fd228d9fcb38ce691c0d7940bf": {
+"content": "Résumé : Le Réseau Cliniques Santé-Nord est un réseau de 12 cliniques médicales privées au Saguenay–Lac-Saint-Jean, avec des exigences spécifiques pour les postes TI et une mise à jour des modalités de télétravail.\n\nLe Réseau Cliniques Santé-Nord est un réseau de 12 cliniques médicales privées situées au Saguenay–Lac-Saint-Jean.\n\n**Profils recherchés :**\n*   Analyste en cybersécurité, avec un profil gouvernance, pour établir un programme de conformité.\n*   Administrateur ou administratrice de systèmes pour les 12 cliniques.\n\n**Exigences spécifiques :**\n*   Pour les postes TI, une **vérification des antécédents judiciaires** est requise avant l'offre d'emploi.\n*   Le **bilinguisme français-anglais** est requis pour les postes TI.\n*   Le télétravail est limité à **2 jours par semaine**.\n*   Chaque candidat présenté doit signer un **engagement de confidentialité** du client avant l'entrevue finale.\n\nCe client traite des renseignements de santé, ce qui rend la sécurité et la confidentialité centrales dans tous les mandats. Les profils recherchés peuvent nécessiter des informations relatives à [[Veille Cybersécurité]] et [[Politique de recrutement]].",
+"tool_calls": []
+},
+"e72656587bd4a6acb29d85facfdee9d694f6b45f": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_document",
+"arguments": {
+"nom": "2026-05-04-courriel-sante-nord.md"
+}
+}
+}
+]
+},
+"e72d7e14824d9ea727e87a221fdc23ca088bf50e": {
+"content": "Le recruteur appelle le candidat après 30 jours en poste pour accompagner la négociation et le suivi [[Politique de recrutement]].",
+"tool_calls": []
+},
+"e7748409b9be813b631ebd8a5968848ad1a2db99": {
+"content": "La garantie de remplacement pour Assurances Riveraine est de 120 jours, conformément à l'Entente de volume 2026 [[Assurances Riveraine]].",
+"tool_calls": []
+},
+"e785025d4b559bd851d62c99c44f78a522b5e9ca": {
+"content": "L'entrevue technique pour un poste en sécurité offensive est remplacée par un exercice pratique à domicile qui dure 2 heures [[Entrevue technique]]. Le candidat reçoit cet exercice 48 heures avant son entrevue [[Entrevue technique]].",
+"tool_calls": []
+},
+"e78669d77095f9a178b1c68b8c9ebf7f0f5967a2": {
+"content": "Le document ne spécifie pas la politique de télétravail des recruteurs du cabinet. Cependant, concernant les clients, le Réseau Cliniques Santé-Nord accepte le télétravail 3 jours par semaine [[2026-03-09-fiche-client-sante-nord.md]], mais ce courriel indique que cette politique passe à 2 jours par semaine [[2026-05-04-courriel-sante-nord.md]].",
+"tool_calls": []
+},
+"e919c86cf96cabbd6704efcb8853eb534baca5b9": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lister_documents",
+"arguments": {}
+}
+}
+]
+},
+"e923566ecbc6b473e8194ad17d79295b8711f74c": {
+"content": "INCONNU",
+"tool_calls": []
+},
+"ea1eb6c9508c963137a0dc39f8ef2257c73980e9": {
+"content": "INCONNU",
+"tool_calls": []
+},
+"eb5b4a90012f36dd861946460f543119bee705b9": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher",
+"arguments": {
+"mots": "Microsoft Azure certifications"
+}
+}
+}
+]
+},
+"ebe1c6f3c9df57cbef87aaa7b394b0cfc7c8db22": {
+"content": "Le dossier d'un candidat non retenu est conservé pendant **12 mois** après la fin du mandat, à condition que le candidat y consente, sinon la durée est de 6 mois [[Conservation des dossiers]].",
+"tool_calls": []
+},
+"ebf0cf27a43705697a829f3baf333eb29a02d4fe": {
+"content": "INCONNU",
+"tool_calls": []
+},
+"eccf792502088253744d7334f72ebe6e40b8661a": {
+"content": "Je ne trouve aucune information concernant l'enregistrement d'une entrevue technique dans les documents disponibles [[INCONNU]].",
+"tool_calls": []
+},
+"ed2a25214d497b18f9634c21b68b8c7b7b71fc0d": {
+"content": "Un candidat peut demander à consulter son dossier, et le cabinet doit répondre dans un délai de 30 jours [[2026-01-19-guide-loi25.md]].",
+"tool_calls": []
+},
+"edca6a95b567fbcca815b77c6be73001588468d8": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_page",
+"arguments": {
+"titre": "Entrevue technique"
+}
+}
+}
+]
+},
+"edcec87d765ac37a7df6de3dd85dfc920ae1588d": {
+"content": "Pour un poste en sécurité offensive, la certification recherchée est l'OSCP [[2026-02-16-veille-cybersecurite.md]]. De plus, pour ce type de poste, l'entrevue technique est remplacée par un exercice pratique de 2 heures à réaliser à domicile [[2026-02-16-veille-cybersecurite.md]].",
+"tool_calls": []
+},
+"ee7bab0a7afc6843692d5668ec14236ff30859c7": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_document",
+"arguments": {
+"nom": "2026-01-26-procedure-references.md"
+}
+}
+}
+]
+},
+"ef0f14453beba71492e32d2505421af9e836ad6e": {
+"content": "L'entrevue technique dure généralement 60 minutes, mais pour les postes en sécurité offensive, elle est remplacée par un exercice pratique à domicile [[Entrevue technique]].",
+"tool_calls": []
+},
+"ef6f37011dfdcf43676333e1b38248a17a6d30c6": {
+"content": "```json\n{\n  \"pages\": [\n    \"Grille d'évaluation des candidats\",\n    \"Entrevue technique\",\n    \"Droits des candidats\"\n  ]\n}\n```",
+"tool_calls": []
+},
+"ef81a9bef5bf3ffb76cb1625dc75679f458881c2": {
+"content": "L'enregistrement des entrevues techniques est autorisé uniquement avec le consentement écrit du candidat, et ce consentement doit être recueilli avant l'entrevue [[Enregistrement des entrevues]]. De plus, l'enregistrement doit être détruit à la fin du mandat [[Enregistrement des entrevues]].",
+"tool_calls": []
+},
+"f03e1a512af786ef04bd8d79a62603204087c777": {
+"content": "```json\n{\n  \"pages\": [\n    {\n      \"titre\": \"Vérification des références\",\n      \"action\": \"creer\"\n    }\n  ]\n}\n```",
+"tool_calls": []
+},
+"f0674e91685ae8e68b714b215ed02a65adfafe4a": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher",
+"arguments": {
+"mots": "sécurité offensive exercice pratique"
+}
+}
+}
+]
+},
+"f0733b804e318c764efef280192377a0f12ad2bd": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_page",
+"arguments": {
+"titre": "Politique de recrutement"
+}
+}
+}
+]
+},
+"f1364d6a824849d6b6eb233db8af4f5a694219fe": {
+"content": "Le Réseau Cliniques Santé-Nord exige le bilinguisme français-anglais pour les postes TI [[Réseau Cliniques Santé-Nord]].",
+"tool_calls": []
+},
+"f143dee6c0a69fa45d244709431b45acbd9ec851": {
+"content": "Le candidat devra signer un engagement de confidentialité du client avant l'entrevue finale [[Réseau Cliniques Santé-Nord]]. Concernant les certifications de gouvernance, le CISSP et le CISM sont mentionnés comme pertinents [[Veille Cybersécurité]].",
+"tool_calls": []
+},
+"f16caeca6c8da72c4a8b776d9c65dce4f0562de9": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher",
+"arguments": {
+"mots": "sécurité offensive certification"
+}
+}
+}
+]
+},
+"f28a532fdae1e804d0dbc66a5e18137e2a031781": {
+"content": "L'entrevue technique dure **60 minutes** [[Entrevue technique]]. Elle se déroule en visioconférence, sauf si le client demande une entrevue sur place [[Entrevue technique]].",
+"tool_calls": []
+},
+"f3100acb597589a1e5ca8eff06610de22aef4993": {
+"content": "Les conditions commerciales pour Manufacturier Boréal sont standard du cabinet [[Manufacturier Boréal]]. Les conditions standard incluent une garantie de remplacement de 90 jours si la personne embauchée quitte ou est congédiée dans ce délai [[Politique de recrutement]].",
+"tool_calls": []
+},
+"f3aafe05a3b47b6f6bd3f81e00b05bf0e909e9d9": {
+"content": "La conservation du dossier d'un candidat non retenu dépend de la date et de l'accord du candidat. Initialement, il était conservé 6 mois après la fin du mandat [[2026-01-19-guide-loi25.md]]. Cependant, à partir du 1er mai 2026, il est conservé 12 mois si le candidat accepte cette durée dans son formulaire de consentement ; sinon, la règle de 6 mois est maintenue [[2026-04-20-note-direction-conservation.md]].",
+"tool_calls": []
+},
+"f3ad3af704b0d178c944023597d36f5dce06c84a": {
+"content": "Pour un poste qui n'est pas un poste de gestion, il faut vérifier au minimum deux références [[2026-01-26-procedure-references.md]]. Parmi ces deux, au moins une doit provenir d'un supérieur immédiat des trois dernières années [[2026-01-26-procedure-references.md]].",
+"tool_calls": []
+},
+"f3f72db0f09e0f1728037f037a493d518614b750": {
+"content": "Selon les notes de veille, il n'est pas spécifié de certification Google Cloud particulière, mais les fournisseurs mentionnés incluent GCP [[2026-02-09-veille-cloud-devops.md]]. Les certifications les plus vues concernent AWS et Microsoft Azure [[2026-02-09-veille-cloud-devops.md]].",
+"tool_calls": []
+},
+"f4837bbcb53ecef5c3037093bf194f207d21ca07": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "chercher",
+"arguments": {
+"mots": "responsable protection renseignements personnels"
+}
+}
+}
+]
+},
+"f54bb0370da9d862f0b25ca9b9d49d62f9863db7": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lire_page",
+"arguments": {
+"titre": "Processus de recrutement"
+}
+}
+}
+]
+},
+"f655af64e40e96050f89ed35062fae91751ef64b": {
+"content": "```json\n{\n  \"pages\": [\n    \"Entrevue technique\",\n    \"Consentement\",\n    \"Droits des candidats\"\n  ]\n}\n```",
+"tool_calls": []
+},
+"f7e6e0a369b16c52396dd5369b55cc8ac97e6833": {
+"content": "Résumé : La page Veille DevOps détaille les technologies, certifications et signaux d'alerte pertinents pour les profils DevOps, en maintenant les informations existantes et en ignorant les détails de cybersécurité.\n\nLes domaines de recrutement les plus demandés incluent :\n*   **Fournisseurs Cloud :** AWS, Azure et GCP. Azure est dominant dans les secteurs public et financier.\n*   **Conteneurs et orchestration :** Docker, Kubernetes.\n*   **Infrastructure en code :** Terraform, Ansible.\n*   **Intégration et livraison continues :** GitHub Actions, GitLab CI.\n*   **Observabilité :** Prometheus, Grafana.\n*   **Ingénierie des données :** Python, SQL, Scala, Apache Airflow, dbt, Snowflake, BigQuery, Azure Synapse, Kafka.\n\nLes certifications les plus courantes sont :\n*   AWS Certified Solutions Architect (Associate ou Professional).\n*   Microsoft Azure Administrator (AZ-104) et Azure Solutions Architect Expert (AZ-305).\n*   Certified Kubernetes Administrator (CKA).\n*   Databricks Certified Data Engineer Associate.\n*   SnowPro Core.\n*   Microsoft Fabric Data Engineer Associate (DP-700).\n\nUne certification ne remplace pas l'expérience ; lors de l'entrevue, un exemple de déploiement mené par le candidat est toujours demandé. Pour les rôles de données, l'accent est mis sur la qualité des données, les tests, et la gestion des données réglementées, surtout dans les secteurs de l'assurance et de la finance.\n\nSignaux d'alerte à surveiller :\n*   Un candidat listant dix outils sans pouvoir décrire un incident qu'il a réglé.\n*   Une expérience uniquement en laboratoire pour un poste nécessitant de la production.",
+"tool_calls": []
+},
+"f8791a59e2e28fbe7122dbf0018553de128c19f8": {
+"content": "La politique de recrutement s'applique à tous les recruteurs, permanents ou contractuels [[2026-01-12-politique-recrutement.md]]. Elle détaille les étapes d'un mandat, de l'ouverture à l'embauche [[2026-01-12-politique-recrutement.md]]. Cependant, ce document ne mentionne pas spécifiquement la politique de télétravail pour les recruteurs [[2026-01-12-politique-recrutement.md]].",
+"tool_calls": []
+},
+"f9a69a73dc408d782abf5e0d5e37032a2f38a230": {
+"content": "Je ne peux pas répondre à cette question car je n'ai pas accès aux documents contenant cette information.",
+"tool_calls": []
+},
+"f9a702139d17bf3c48f1549987af212f5111253f": {
+"content": "L'information concernant le logiciel de suivi des candidats n'est pas disponible dans les pages consultées [[index]]. Cependant, la [[Politique de recrutement]] décrit les étapes standard d'un mandat de recrutement en TI.",
+"tool_calls": []
+},
+"fa294882a4a0ee6734c25bd6909fe3b91eb94c91": {
+"content": "INCONNU",
+"tool_calls": []
+},
+"fa815ab66275360dae6827bfbebeac49f8ce5fff": {
+"content": "Pour les postes TI, le Réseau Cliniques Santé-Nord exige le bilinguisme français-anglais [[Réseau Cliniques Santé-Nord]].",
+"tool_calls": []
+},
+"faffef862cad9e56dde69faa519b144805eb487b": {
+"content": "",
+"tool_calls": [
+{
+"function": {
+"name": "lister_documents",
+"arguments": {}
+}
+}
+]
+},
+"fc9d4baa8319ff2bb67d4d53e207de3f04d06c3b": {
+"content": "Le Réseau Cliniques Santé-Nord limite le télétravail à deux jours par semaine pour les postes TI [[Réseau Cliniques Santé-Nord]].",
+"tool_calls": []
+},
+"fd54aac7fd002dd06194ebf7fe5739ae911fb657": {
+"content": "Résumé : Assurances Riveraine est un assureur de dommages établi à Trois-Rivières qui recrute principalement en données et en cybersécurité, avec des exigences spécifiques concernant l'hébergement des données et la vérification des antécédents.\n\nLe client est Assurances Riveraine inc., un assureur de dommages établi à Trois-Rivières, comptant environ 900 employés.\n\nLes profils recherchés incluent :\n* Ingénieurs et ingénieures de données pour sa plateforme d'analyse des réclamations.\n* Analystes en sécurité défensive pour son centre des opérations de sécurité.\n\nExigences spécifiques :\n* Toutes les données du client doivent rester hébergées au Canada ; les candidats en infonuagique doivent connaître les régions canadiennes d'Azure.\n* La [[Vérification des références]] des antécédents judiciaires est obligatoire pour tous les postes, effectuée par le client après l'acceptation de l'offre.\n* Le cabinet doit recevoir les dossiers des candidats au plus tard 10 jours ouvrables après l'ouverture du mandat.",
+"tool_calls": []
+},
+"fd630f44714eaf0bf529fae78a28514e55abc537": {
+"content": "INCONNU",
+"tool_calls": []
+},
+"fefb0f8a44616b6ec9d4eac7236d9ed8eccfc352": {
+"content": "INCONNU",
+"tool_calls": []
+},
+"ff501f9cf6be62637af9fbdca1a90e7dc174e796": {
+"content": "Un candidat est éliminé si sa note en compétence technique est inférieure à 30 points sur 50, même si son total est supérieur [[2026-01-12-grille-evaluation.md]].",
+"tool_calls": []
+},
+"ff8eef4e63ec390117532b5a018841fd708c0cb7": {
+"content": "Selon la [[Politique de recrutement]], les honoraires standard du cabinet sont de **20 % du salaire annuel de base** du candidat embauché, facturés à l'embauche. De plus, il existe une garantie de remplacement si la personne quitte ou est congédiée dans les **90 jours**, auquel cas le cabinet trouve un remplaçant sans frais [[Politique de recrutement]].",
+"tool_calls": []
+}
+}
