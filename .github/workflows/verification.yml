@@ -19,5 +19,5 @@ jobs:
         run: python -m wiki_llm.ingerer --verifier
       - name: Vérifier le wiki (liens, orphelins, provenance) et comparer au rapport publié
         run: python -m wiki_llm.verifier --verifier
-      - name: Répondre aux 30 questions avec les 5 méthodes et comparer aux résultats publiés
+      - name: Répondre aux 30 questions de sept façons et comparer aux résultats publiés
         run: python -m wiki_llm.evaluer --verifier
